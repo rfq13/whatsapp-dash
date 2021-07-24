@@ -1,0 +1,3 @@
+{
+    "ignore":["conversations-60a9c8f21fcaf935dc12c007.json","whatsapp-*.json","phrases-data/user-*.json","phrases-data/*.json"]
+}

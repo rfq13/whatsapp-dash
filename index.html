@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Whatsappi</title>
+</head>
+<body>
+
+
+    <div id="app">
+        <h1>Whatsapp API</h1>
+        <img src="" alt="whatsapp api" id="qrcode">
+        <ul class="logs"></ul>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/3.1.2/socket.io.js" integrity="sha512-YybopSVjZU0fe8TY4YDuQbP5bhwpGBE/T6eBUEZ0usM72IWBfWrgVI13qfX4V2A/W7Hdqnm7PIOYOwP9YHnICw==" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcode-generator/1.4.4/qrcode.min.js" integrity="sha512-ZDSPMa/JM1D+7kdg2x3BsruQ6T/JpJo3jWDWkCZsP+5yVyp1KfESqLI+7RqB5k24F7p2cV7i2YHh/890y6P6Sw==" crossorigin="anonymous"></script>
+
+    <script>
+        $(document).ready(function () {
+            const socket = io.connect('http://localhost:4000', {path:'/socket.io'})
+            socket.on('message',(msg)=>{
+                $('.logs').append(`<li>${msg}</li>`)
+            })
+            socket.on('qr',(url)=>{
+                $('#qrcode').attr('src',url)
+            })
+            socket.on('ready',()=>{
+                $('#qrcode').hide()
+            })
+            socket.on('authenticated',()=>{
+                $('#qrcode').hide()
+            })
+        })
+    </script>
+</body>
+</html>
