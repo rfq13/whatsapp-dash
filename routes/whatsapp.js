@@ -16,8 +16,6 @@ async function fileExists (path) {
     }
 }
 
-// lhangkrak
-
 router.get('/connection', whatsappController.connect);
 
 router.route('/send')
