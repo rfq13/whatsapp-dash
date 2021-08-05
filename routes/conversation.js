@@ -96,7 +96,7 @@ router.route('/')
 .patch(async (req,res) => {
     Model.findById(req.phrase_id,(err,doc)=>{
         doc.phrases = req.phrases;
-        doc.save(()=>{
+        doc.save(async ()=>{
             const data = await Model.find({user_id:req.user._id});
             res.json(convMapper(data));
         });
