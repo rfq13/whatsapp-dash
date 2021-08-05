@@ -23,7 +23,7 @@ function ganti(params,data) {
 
 function tokenisasi(sentence) {
   var stemmed = [];
-//   const custom = ['ga','ga'];
+    //   const custom = ['ga','ga'];
   var stemmer = new Stemmer();
   var tokenizer = new Tokenizer();
   words = tokenizer.tokenize(sentence);
@@ -120,7 +120,7 @@ var learn = (data) =>{
             proses semua pertanyaan menggunakan fuzzy_match method.
             hasil dari proses fuzzy matching setiap index akan mendapatkan value yang menjadi ukuran akurasi setiap index
         */
-    //    console.log(pertanyaans);
+        //    console.log(pertanyaans);
         pertanyaans.forEach((el,i) => {
             hasil = fuzzy_match(el,input);
             results.push(hasil)

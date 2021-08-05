@@ -1,6 +1,7 @@
 const express = require("express");
 const router = express.Router();
-const whatsapp = require("./whatsapp");
+const whatsappRoute = require("./whatsapp");
+const conversationRoute = require("./conversation");
 const passport = require('passport');
 const axios = require('axios');
 const fs = require('fs');
@@ -94,6 +95,7 @@ router.get('/sastrawi',(req,res)=>{
 })
 
 // router.use("/whatsapp", passport.authenticate('jwt', { session: false }), whatsapp);
-router.use("/whatsapp",passport.authenticate(['jwt','bearer'], { session: false }),whatsapp);
+router.use("/whatsapp",passport.authenticate(['jwt','bearer'], { session: false }),whatsappRoute);
+router.use("/conversation",passport.authenticate(['jwt','bearer'], { session: false }),conversationRoute);
 
 module.exports = router;

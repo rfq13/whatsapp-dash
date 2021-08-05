@@ -7,6 +7,7 @@ const {body} = require('express-validator');
 const fs = require('fs');
 // const { getAllSessions } = require('../init/wa');
 let CONVERSATION_FILE = "./conversations.json";
+const Session = require('../models/Sessions');
 async function fileExists (path) {  
     try {
       await fs.access(path)
@@ -59,10 +60,8 @@ router.route('/user/email/:email')
     res.send(user);
 })
 
-const Session = require('../models/Sessions');
 
 router.get("/sessions", async (req, res) => {
-    
   result = await Session.find({user_id:req.user._id});
   res.json({ results: result });
 });
