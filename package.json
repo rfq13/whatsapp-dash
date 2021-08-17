@@ -19,16 +19,16 @@
     "express": "^4.17.1",
     "express-fileupload": "^1.2.1",
     "express-flash": "0.0.2",
-    "express-session": "^1.17.1",
-    "express-validator": "^6.10.0",
+    "express-session": "^1.17.2",
+    "express-validator": "^6.12.1",
     "gyp": "^0.5.0",
     "http": "0.0.1-security",
     "jsonwebtoken": "^8.5.1",
     "method-override": "^3.0.0",
-    "mongodb": "^3.6.5",
-    "mongoose": "^5.11.18",
+    "mongodb": "^3.6.11",
+    "mongoose": "^5.13.7",
     "mongoose-unique-validator": "^2.0.3",
-    "nodemon": "^2.0.7",
+    "nodemon": "^2.0.12",
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0",
@@ -36,9 +36,9 @@
     "qrcode": "^1.4.4",
     "sastrawijs": "^1.0.4",
     "socket.io": "^3.1.2",
-    "whatsapp-web.js": "^1.12.5"
+    "whatsapp-web.js": "^1.14.0"
   },
   "devDependencies": {
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.6.0"
   }
 }
