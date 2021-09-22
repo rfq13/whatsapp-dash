@@ -18,9 +18,8 @@ const io = socketIO(server, {
 
 const routes = require("./routes/web");
 const myAuth = require("./routes/auth");
-const { strater, getAllSessions } = require("./init/wa");
 
-strater(io);
+require("./init/wa").strater(io);
 require("./init/mongoose");
 
 app.use(cors());
@@ -44,17 +43,17 @@ app.use(function (req, res, next) {
 });
 
 // error handler
-// app.use(function(err, req, res, next) {
-//   // set locals, only providing error in development
-//   res.locals.message = err.message;
-//   res.locals.error = err;
+app.use(function (err, req, res, next) {
+  // set locals, only providing error in development
+  res.locals.message = err.message;
+  res.locals.error = err;
 
-//   // render the error page
-//   res.status(err.status || 500);
-//   res.render('error');
-// });
+  // render the error page
+  res.status(err.status || 500);
+  res.render("error");
+});
 
-server.listen("4001", () => {
+server.listen("4000", () => {
   console.log("server started");
 });
 

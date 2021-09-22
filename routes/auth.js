@@ -1,10 +1,12 @@
 module.exports = (app) => {
+  require("../passport-config")(app);
   const passport = require("passport");
   const jwt = require("jsonwebtoken");
   const { body, validationResult } = require("express-validator");
   const UserModel = require("../models/users");
   var bcrypt = require("bcrypt");
-  require("../passport-config")(app);
+
+  const authenticated = passport.authenticate(["jwt", "bearer"], { session: false });
   // login
   app.post("/login", [body("username").notEmpty().isEmail(), body("password").notEmpty()], async (req, res, next) => {
     const error = validationResult(req).formatWith(({ msg }) => {
@@ -52,9 +54,8 @@ module.exports = (app) => {
 
     var salt = bcrypt.genSaltSync(10);
     var hash = bcrypt.hashSync(req.body.password, salt);
-
     const data = {
-      name: req.body.firstname + " " + req.body.lastname,
+      name: `${req.body.firstname} ${req.body.lastname ?? ""}`,
       email: req.body.email,
       password: hash,
     };
@@ -68,5 +69,6 @@ module.exports = (app) => {
     });
   });
 
-  app.get("/user", passport.authenticate(["jwt", "bearer"], { session: false }), (req, res) => res.send({ user: req.user }));
+  app.get("/user", authenticated, (req, res) => res.send({ user: req.user }));
+  // app.get("/user", passport.authenticate(["jwt", "bearer"], { session: false }), (req, res) => res.send({ user: req.user }));
 };

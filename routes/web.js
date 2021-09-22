@@ -4,6 +4,7 @@ const whatsappRoute = require("./whatsapp");
 const conversationRoute = require("./conversation");
 const passport = require("passport");
 const axios = require("axios");
+const authenticated = passport.authenticate(["jwt", "bearer"], { session: false });
 
 router.get("/", async (req, res) => {
   result = "await Session.find({})";
@@ -22,7 +23,7 @@ router.get("/products", async (req, res) => {
     });
 });
 
-router.use("/whatsapp", passport.authenticate(["jwt", "bearer"], { session: false }), whatsappRoute);
+router.use("/whatsapp", authenticated, whatsappRoute);
 router.use("/conversation", passport.authenticate(["jwt", "bearer"], { session: false }), conversationRoute);
 
 module.exports = router;
