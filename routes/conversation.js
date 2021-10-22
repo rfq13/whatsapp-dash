@@ -1,8 +1,22 @@
 const express = require("express");
 const router = express.Router();
 const Model = require("../models/Conversations");
+const ConversationKey = require("../models/ConversationKey");
 const pagination = require("../helpers/paginate");
 const convMapper = require("../helpers/conversationDataMapper");
+
+const generateConversation = (conversationsData, { callback = () => {} }) => {
+  ConversationKey.collection
+    .insert(conversationsData)
+    .then(() => {
+      if (typeof callback == "function") {
+        callback();
+      }
+    })
+    .catch((error) => {
+      console.log("error cooook", error);
+    });
+};
 
 router
   .route("/")
@@ -24,6 +38,14 @@ router
     }
   )
   .post(async (req, res) => {
+    const findedConv = await ConversationKey.find({ user_id: req.user._id });
+    console.log(findedConv.length);
+    if (findedConv.length) {
+      console.log("ngondet");
+      res.send({ gagal: "nyrot" });
+      return;
+    }
+
     const conversations = {
       sapaan: {
         pertanyaan: ["hi", "hey", "hello", "good morning", "good afternoon"],
@@ -47,7 +69,7 @@ router
       },
       creator: {
         pertanyaan: ["who created you", "who made you"],
-        jawaban: ["ripeki", "JavaScript"],
+        jawaban: ["someone", "JavaScript"],
       },
       about: {
         pertanyaan: ["your name please", "your name", "may i know your name", "what is your name", "what call yourself"],
@@ -55,29 +77,38 @@ router
       },
     };
 
-    const newData = [];
+    const convKeyData = [];
 
     for (const key in conversations) {
       if (Object.hasOwnProperty.call(conversations, key)) {
+        const newConvData = [];
         const dataConv = conversations[key];
-
         for (const index in dataConv) {
           if (Object.hasOwnProperty.call(dataConv, index)) {
-            const phrases = dataConv[index];
-            await Model.create([
-              {
-                user_id: req.user._id,
-                key,
-                type: index == "pertanyaan" ? 1 : 2,
-                phrases,
-              },
-            ]);
+            const phrases = dataConv[index]; //pertanyaan atau jawaban
+            newConvData.push({
+              type: index == "pertanyaan" ? 1 : 2,
+              phrases,
+            });
           }
         }
+
+        const newData = {
+          key,
+          user_id: req.user._id,
+          conversations: newConvData,
+        };
+        convKeyData.push(newData);
       }
     }
 
-    res.json({ message: "success" });
+    console.log("nyah", convKeyData);
+    const generateProcess = new Promise((resolve, reject) => generateConversation(convKeyData, { callback: resolve() }));
+    console.log("nyrot");
+    generateProcess.then(() => {
+      console.log("nyret");
+      res.json({ message: "success" });
+    });
   })
   .patch(async (req, res) => {
     Model.findById(req.phrase_id, (err, doc) => {
