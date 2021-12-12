@@ -102,11 +102,8 @@ router
       }
     }
 
-    console.log("nyah", convKeyData);
     const generateProcess = new Promise((resolve, reject) => generateConversation(convKeyData, { callback: resolve() }));
-    console.log("nyrot");
     generateProcess.then(() => {
-      console.log("nyret");
       res.json({ message: "success" });
     });
   })

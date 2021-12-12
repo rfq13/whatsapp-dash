@@ -44,6 +44,7 @@ module.exports = (app) => {
     const error = validationResult(req).formatWith(({ msg }) => {
       return msg;
     });
+
     if (!error.isEmpty()) {
       res.status(422).json({
         message: "tidak dapat melanjutkan proses",
@@ -56,19 +57,24 @@ module.exports = (app) => {
     var hash = bcrypt.hashSync(req.body.password, salt);
     const data = {
       name: `${req.body.firstname} ${req.body.lastname ?? ""}`,
-      email: req.body.email,
+      username: req.body.email,
       password: hash,
     };
 
-    UserModel.create(data, async (err, success) => {
-      if (err) {
-        return res.status(500).json({ err });
+    UserModel.create(data, async ({ errors }, scc) => {
+      if (errors) {
+        return res.status(500).json(errors);
       } else {
-        return res.status(201).json({ success });
+        return res.status(201).json({
+          success: {
+            _id: scc._doc._id,
+            name: scc._doc.name,
+            email: scc._doc.username,
+          },
+        });
       }
     });
   });
 
   app.get("/user", authenticated, (req, res) => res.send({ user: req.user }));
-  // app.get("/user", passport.authenticate(["jwt", "bearer"], { session: false }), (req, res) => res.send({ user: req.user }));
 };

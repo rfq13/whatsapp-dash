@@ -12,7 +12,10 @@ module.exports = function ({ from = "en", to = "id", text }) {
         translator
           .translate(text, from, to)
           .then((translate) => resolve(translate))
-          .catch((err) => reject(err));
+          .catch((err) => {
+            console.log("howdy");
+            reject(err);
+          });
       });
   });
 };

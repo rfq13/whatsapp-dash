@@ -29,10 +29,10 @@ router.get("/test-import", (req, res) => {
       results.push(data);
     })
     .on("end", async () => {
-      console.log("nyoook ==>", results.length);
+      console.log("lenght ==>", results.length);
       const translateds = [];
       // for (let i = 0; i < results.length; i++) {
-      for (let i = 0; i < 4; i++) {
+      for (let i = 0; i < 20; i++) {
         const data = results[i];
         const translated = await translate({ text: data.message, from: "en", to: "id" });
         console.log(data);
