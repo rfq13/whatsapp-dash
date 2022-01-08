@@ -62,10 +62,14 @@ const strater = (io) => {
     client.on("qr", async (qr) => {
       console.log("QR ", qr);
       const cekClient = await Session.check({ _id: id });
-      if (cekClient) {
+      console.log(cekClient);
+      if (cekClient && !cekClient.ready) {
         qrcode.toDataURL(qr, (err, url) => {
           io.emit("qr", { id: id, src: url });
-          io.emit("message", { id: id, text: "QR Code received, scan please!" });
+          io.emit("message", {
+            id: id,
+            text: "QR Code received, scan please scan!",
+          });
         });
       }
       // else{
@@ -110,7 +114,8 @@ const strater = (io) => {
             groups.forEach((group, i) => {
               replyMsg += `ID: ${group.id._serialized}\nName: ${group.name}\n\n`;
             });
-            replyMsg += "_You can use the group id to send a message to the group._";
+            replyMsg +=
+              "_You can use the group id to send a message to the group._";
             msg.reply(replyMsg);
           }
         });

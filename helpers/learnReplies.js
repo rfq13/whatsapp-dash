@@ -1,9 +1,21 @@
 const fs = require("fs");
 const { Stemmer, Tokenizer } = require("sastrawijs");
+const convModel = require("../models/ConversationKey");
+const { fuzzy_match, RabinKarp } = require("../helpers/algo");
+const UserModel = require("../models/users");
 
-const alternative = ["Same", "Go on...", "Bro...", "Try again", "I don't understand :/"];
+const alternative = [
+  "maaf, pesan anda kurang dapat mengerti, bisa diperjelas?",
+  "maaf, bisa diperjelas pertanyaannya kak?",
+  // "I don't understand :/",
+];
 
-const coronavirus = ["Please stay home", "Wear a mask", "Fortunately, I don't have COVID", "These are uncertain times"];
+const coronavirus = [
+  "Please stay home",
+  "Wear a mask",
+  "Fortunately, I don't have COVID",
+  "These are uncertain times",
+];
 
 function ganti(params, data) {
   return params.replace(
@@ -26,118 +38,93 @@ function tokenize(sentence) {
   return stemmed.join(" ");
 }
 
-function fuzzy_match(text, search) {
-  search = tokenize(search.replace(/\ /g, " ").toLowerCase());
-  // console.log(search);
-  var tokens = [];
-  var search_position = 0;
-  charValue = [];
-
-  // text = ganti(text,{simply_minghwa:'contoh sederhana'});
-
-  textGab = "";
-
-  if ((check = text.indexOf(search))) {
-    textGab = text.substring(0, check);
-    text = text.substring(check);
-  }
-
-  for (var n = 0; n < text.length; n++) {
-    var text_char = text[n];
-    if (search_position < search.length && text_char.toLowerCase() == search[search_position]) {
-      // text_char = '<b>' + text_char + '</b>';
-      charValue.push(text_char);
-      if (charValue.includes(n - 1)) charValue.push(`${n - 1}*1`);
-
-      search_position += 1;
-    }
-    tokens.push(text_char);
-  }
-
-  // console.log(search_position,text.length,search.length);
-
-  if (search_position > search.length) return { text: "", value: 0 };
-
-  // return tokens.join('');
-  joinText = textGab + tokens.join("").replace(/<[^>]*>?/gm, "");
-
-  let total = charValue.length;
-
-  // if (textGab.length > 0) {
-  //     total += textGab.length
-  // }
-
-  let value = (total / joinText.length) * (100).toFixed(2);
-
-  // console.log(charValue);
-  return {
-    text: joinText,
-    value: total,
-    total,
-    jt: joinText.length,
-  };
-}
-
 var learn = (data) => {
-  const input = data.text;
-  const CONVERSATION_FILE = `./phrases-data/user-${data.user}.json`;
-  let conversations = false;
+  return new Promise((resolve, reject) => {
+    const input = data.text;
+    convModel.find({ user_id: data.user }, async (err, result) => {
+      let conversations = false;
+      if (err) {
+        const CONVERSATION_FILE = `./phrases-data/user-${data.user}.json`;
+        fs.access(CONVERSATION_FILE, (err) => {
+          if (err) {
+            let newFile = fs.readFileSync("./conversations.json");
+            fs.writeFileSync(CONVERSATION_FILE, newFile);
+          }
+        });
 
-  fs.access(CONVERSATION_FILE, (err) => {
-    if (err) {
-      let newFile = fs.readFileSync("./conversations.json");
-      fs.writeFileSync(CONVERSATION_FILE, newFile);
-    }
-  });
-
-  conversations = JSON.parse(fs.readFileSync(CONVERSATION_FILE));
-  result = false;
-  let results = [];
-
-  if (conversations) {
-    //kumpulkan semua pertanyaan
-    const pertanyaans = [].concat.apply(
-      [],
-      //kumpulkan semua pertanyaan ke dalam satu array
-      Object.keys(conversations).map((key, index) => conversations[key].pertanyaan)
-    );
-
-    /* 
-            proses semua pertanyaan menggunakan fuzzy_match method.
-            hasil dari proses fuzzy matching setiap index akan mendapatkan value yang menjadi ukuran akurasi setiap index
-        */
-    //    console.log(pertanyaans);
-    pertanyaans.forEach((el, i) => {
-      hasil = fuzzy_match(el, input);
-      results.push(hasil);
-    });
-
-    //cari value tertinggi
-    const maxValue = Math.max.apply(
-      Math,
-      results.map(function (v) {
-        return v.value;
-      })
-    );
-
-    console.log({ maxValue, results });
-
-    if (maxValue > 0) {
-      let selecteD = results.filter((result) => result.value == maxValue); //ambil index pertanyaan dengan value tertinggi
-
-      if (selecteD.length > 0) {
-        category = Object.keys(conversations).filter((q, i) => conversations[q].pertanyaan.includes(selecteD[0].text)); //ambil satu pertanyaan terpilih, kemudian cari kategori dari conversations yang mana pertanyaannya mencakup hasil pertanyaan terpilih
-
-        replies = conversations[category[0]].jawaban; //setelah kategori ditemukan, ambil semua jawabannya
-        result = replies[Math.floor(Math.random() * replies.length)]; //pilih jawaban secara random
+        conversations = JSON.parse(fs.readFileSync(CONVERSATION_FILE));
+      } else {
+        formatted = {};
+        for (let i = 0; i < result.length; i++) {
+          const conv = result[i];
+          formatted[conv.key] = {
+            pertanyaan: conv.conversations.find((v) => v.type == 1).phrases,
+            jawaban: conv.conversations.find((v) => v.type == 2).phrases,
+          };
+        }
+        conversations = formatted;
       }
-    }
-  }
 
-  return result;
+      result = false;
+      let results = [];
+
+      if (conversations) {
+        //kumpulkan semua pertanyaan
+        const pertanyaans = [].concat.apply(
+          [],
+          //kumpulkan semua pertanyaan ke dalam satu array
+          Object.keys(conversations).map(
+            (key, index) => conversations[key].pertanyaan
+          )
+        );
+
+        /* 
+              proses semua pertanyaan menggunakan fuzzy_match method.
+              hasil dari proses fuzzy matching setiap index akan mendapatkan value yang menjadi ukuran akurasi setiap index
+          */
+        //    console.log(pertanyaans);
+        const { nlp_algo } = await UserModel.findOne({ _id: data.user });
+
+        pertanyaans.forEach((el, i) => {
+          if (nlp_algo == 1) {
+            hasil = fuzzy_match(el, input);
+          } else {
+            hasil = new RabinKarp().exec(el, input);
+          }
+          results.push(hasil);
+        });
+
+        // console.log();
+        //cari value tertinggi
+        const maxValue = Math.max.apply(
+          Math,
+          results.map(function (v) {
+            return v.value;
+          })
+        );
+
+        // console.log({ maxValue });
+
+        if (maxValue > 0) {
+          let selecteD = results.find((result) => result.value == maxValue); //ambil index pertanyaan dengan value tertinggi
+          console.log({ selecteD });
+          if (selecteD != -1) {
+            category = Object.keys(conversations).filter((q, i) =>
+              conversations[q].pertanyaan.includes(selecteD.text)
+            ); //ambil satu pertanyaan terpilih, kemudian cari kategori dari conversations yang mana pertanyaannya mencakup hasil pertanyaan terpilih
+
+            replies = conversations[category[0]].jawaban; //setelah kategori ditemukan, ambil semua jawabannya
+            result = replies[Math.floor(Math.random() * replies.length)]; //pilih jawaban secara random
+          }
+        }
+      }
+
+      resolve(result);
+    });
+  });
 };
 
-function output(input) {
+async function output(input) {
   let answer;
 
   // Regex remove non word/space chars
@@ -157,9 +144,9 @@ function output(input) {
     .replace(/ please/g, "")
     .replace(/r u/g, "are you");
 
-  if (learn({ text, user: input.user })) {
+  if ((searchAns = await learn({ text, user: input.user }))) {
     // Search for exact match in `prompts`
-    answer = learn({ text, user: input.user });
+    answer = searchAns;
   } else if (text.match(/thank/gi) || text.match(/thx/gi)) {
     answer = "You're welcome!";
   } else if (text.match(/(corona|covid|virus)/gi)) {

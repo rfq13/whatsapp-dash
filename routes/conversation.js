@@ -14,7 +14,7 @@ const generateConversation = (conversationsData, { callback = () => {} }) => {
       }
     })
     .catch((error) => {
-      console.log("error cooook", error);
+      console.log("error", error);
     });
 };
 
@@ -53,18 +53,32 @@ router
       },
       opening: {
         pertanyaan: ["how are you", "how is life", "how are things"],
-        jawaban: ["Fine... how are you?", "Pretty well, how are you?", "Fantastic, how are you?"],
+        jawaban: [
+          "Fine... how are you?",
+          "Pretty well, how are you?",
+          "Fantastic, how are you?",
+        ],
       },
       kabar: {
         pertanyaan: ["what are you doing", "what is going on", "what is up"],
-        jawaban: ["Nothing much", "About to go to sleep", "Can you guess?", "I don't know actually"],
+        jawaban: [
+          "Nothing much",
+          "About to go to sleep",
+          "Can you guess?",
+          "I don't know actually",
+        ],
       },
       umur: {
         pertanyaan: ["how old are you"],
         jawaban: ["I am infinite"],
       },
       me: {
-        pertanyaan: ["who are you", "are you human", "are you bot", "are you human or bot"],
+        pertanyaan: [
+          "who are you",
+          "are you human",
+          "are you bot",
+          "are you human or bot",
+        ],
         jawaban: ["I am just a bot", "I am a bot. What are you?"],
       },
       creator: {
@@ -72,7 +86,13 @@ router
         jawaban: ["someone", "JavaScript"],
       },
       about: {
-        pertanyaan: ["your name please", "your name", "may i know your name", "what is your name", "what call yourself"],
+        pertanyaan: [
+          "your name please",
+          "your name",
+          "may i know your name",
+          "what is your name",
+          "what call yourself",
+        ],
         jawaban: ["I am nameless", "I don't have a name"],
       },
     };
@@ -102,7 +122,9 @@ router
       }
     }
 
-    const generateProcess = new Promise((resolve, reject) => generateConversation(convKeyData, { callback: resolve() }));
+    const generateProcess = new Promise((resolve, reject) =>
+      generateConversation(convKeyData, { callback: resolve() })
+    );
     generateProcess.then(() => {
       res.json({ message: "success" });
     });
