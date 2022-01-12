@@ -1,0 +1,2278 @@
+[{
+  "_id": {
+    "$oid": "61c3af00eb1f29525bbd01d6"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent1",
+  "conversations": [
+    {
+      "phrases": [
+        "Apakah Anda penggemar Google atau Microsoft?",
+        "Apakah Anda tahu Google memiliki ratusan kambing hidup untuk memotong rumput di masa lalu?",
+        "Saya suka Google Chrome. Apakah Anda menggunakannya juga untuk browser Anda?",
+        "Ngomong-ngomong, kamu suka ikan?",
+        "Tahukah Anda bahwa kuda laut adalah satu-satunya ikan yang memiliki leher?",
+        "Menarik, mereka juga memiliki insang. Apakah Anda tahu bahwa ubur-ubur itu abadi?",
+        "Bagaimana dengan kucing, apakah Anda suka kucing? Saya seorang penggemar anjing sendiri."
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3af00eb1f29525bbd01d7"
+      }
+    },
+    {
+      "phrases": [
+        "Keduanya adalah teknologi yang sangat baik mereka membantu dalam banyak hal. Untuk tujuan keamanan keduanya super.",
+        "Saya bukan penggemar Google, tetapi saya sering menggunakannya karena saya harus melakukannya. Saya pikir mereka adalah monopoli dalam beberapa hal.",
+        "Google menyediakan layanan dan produk terkait online, yang mencakup iklan online, mesin pencari, dan komputasi awan.",
+        "Ya, layanan mereka baik. Saya hanya bukan penggemar mengganggu mereka dapat menjalani kehidupan pribadi kita.",
+        "Google memimpin anak perusahaan alfabet dan akan terus menjadi perusahaan payung untuk bunga alfabet.",
+        "Itu sangat menarik. Google menyediakan \"Chrome OS\" yang merupakan OS ringan. Google menyediakan banyak perangkat keras terutama pada tahun 2010 hingga 2015.",
+        "YES.Google adalah mesin pencari terbesar dan tokoh layanan Google dari 100 situs web teratas, termasuk YouTube dan Blogger.",
+        "Ya. Mereka membentuk sekelompok saudari tourniquets - mereka membuat air laut bersih dan menghilangkan debu darinya. Ikan adalah bagian terbesar dalam sistem eko.",
+        "Ikan air tawar hanya minum air melalui kulit melalui osmosis, ikan air asin minum air melalui mulut. Lumba-lumba ramah bagi manusia.",
+        "Ya. Ikan adalah sumber daya penting dunia manusia di seluruh dunia untuk ikan komersial dan subsisten memburu ikan di perikanan liar.",
+        "Kucing itu disebut sebagai kucing domestik dan kucing liar. Mereka membuat dunia kita sangat bersih dari tikus!",
+        "Ya, kucing bisa keren, tetapi mereka benar-benar menghabiskan banyak waktu mereka tidur.",
+        "Kucing mendengar suara terlalu pingsan atau frekuensi terlalu tinggi telinga manusia dapat mendengar.",
+        "Saya juga mendengarnya. Yah, itu menyenangkan mengobrol denganmu. Semoga harimu menyenangkan."
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3af00eb1f29525bbd01d8"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-22T23:04:33.014Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-22T23:04:33.014Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3af00eb1f29525bbd01d9"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent2",
+  "conversations": [
+    {
+      "phrases": [
+        "apa kau suka berdansa?",
+        "Ya, saya bersedia. Apakah Anda tahu Bruce Lee adalah penari Cha Cha?",
+        "Ya. Tahukah Anda Tupac adalah penari balet?",
+        "Ya benar. Apakah Anda tahu bayi benar-benar pandai menari?",
+        "Benar Apakah Anda tahu Jackson memiliki paten pada perangkat menari?",
+        "Bagus. Apakah Anda suka Shakespeare?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3af00eb1f29525bbd01da"
+      }
+    },
+    {
+      "phrases": [
+        "Ya dia bahkan memenangkan kejuaraan cha cha hardcore pada tahun 1958",
+        "Ya dan dia bahkan dalam produksi nutcracker",
+        "Ya. Ballet Dancer melewati 4 pasang sepatu seminggu",
+        "Ya itu banyak sepatu dan juga banyak uang",
+        "Ya dan mereka lebih tersenyum ketika mereka memukul",
+        "Ya mereka jauh lebih pintar daripada kami memberi mereka kredit untuk",
+        "Ya itu membantunya memuluskan gerakan tariannya",
+        "Ya, saya bersedia. Apakah Anda tahu bahwa ia mempopulerkan banyak frasa",
+        "Ya seperti riddance yang baik, di hati saya dan semacamnya",
+        "Ya dan kemudian dia juga menemukan nama-nama seperti Jessica, Olivia dan Miranda",
+        "Ya. Dan untuk pekerjaannya, Anda harus menggunakan bahasa Inggris lama agar masuk akal",
+        "Ya kalau tidak, sajak dan permainan kata-kata sepertinya tidak berhasil",
+        "Ya. Dia hidup bersamaan dengan Pocahontas juga",
+        "Saya ingin tahu apakah mereka bertemu dengan bagaimana itu akan pergi dari sana",
+        "Ya poin yang menarik. Obrolan yang menyenangkan"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3af00eb1f29525bbd01db"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-22T23:04:33.015Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-22T23:04:33.015Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3af00eb1f29525bbd01dc"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent3",
+  "conversations": [
+    {
+      "phrases": [
+        "Hei, apa yang sering digunakan Google? Saya sangat menyukai perusahaan dan terkejut mendengar bahwa itu didirikan pada tahun 1998.",
+        "Katakan apa sekarang ?? mereka punya itu ??",
+        "Saya ingat mendengarnya sebelumnya. Keabadian terbuang sia-sia pada ubur-ubur haha. Apakah Anda tahu kuda laut adalah satu-satunya ikan yang memiliki leher yang sebenarnya?",
+        "itu gila. Saya bertanya-tanya mengapa air tawar hanya menggunakan osmosis?",
+        "Sepertinya ikan air tawar mendapat ujung pendek tongkat dengan yang itu. Pernahkah Anda ke kafe Cat?",
+        "Saya belum pernah ke kafe Cat, bagaimana dengan Anda? Sepertinya mereka populer di Jepang dan Taiwan.",
+        "Tidak, tetapi saya akan senang! Membayar setiap jam untuk bergaul dengan kucing yang menggemaskan? Saya masuk!"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3af00eb1f29525bbd01dd"
+      }
+    },
+    {
+      "phrases": [
+        "Saya pikir semua orang harus menggunakannya setiap hari! itu menjadi tertanam dalam kehidupan sehari-hari",
+        "Sepakat. Markas besar Google di Mountain View California dijuluki Google Plex.",
+        "itu lucu. CEO saat ini adalah Sundar Pichai, saya tidak tahu halaman Larry diganti",
+        "Oh ya aku juga tidak tahu itu. Saya juga ingin pergi ke Google Plex untuk melihat kambing yang memotong rumput mereka dengan memakannya.",
+        "Ya rupanya lol! Mereka melakukan itu alih-alih mempekerjakan orang untuk memotong!",
+        "Itu lucu dan saya kira imajinatif. Serahkan ke perusahaan teknologi besar untuk menggunakan kambing yang sebenarnya!",
+        "Ya persis saya yakin mereka lebih murah. Satu hal yang saya yakin mereka tidak bisa mengeksploitasi adalah ikan. Saya pikir ikan sangat keren sebenarnya ada jenis ubur-ubur yang abadi.",
+        "Itu sangat lucu. Kurasa aku tidak pernah menganggap kuda laut seekor ikan. Ikan Swallower Hitam terdengar seperti ular karena bisa makan berdoa yang sangat besar.",
+        "Saya kira mereka memenuhi nama mereka!",
+        "Sepertinya mereka melakukannya. Saya juga tidak tahu bahwa ada perbedaan dengan bagaimana minuman ikan air tawar dan air asin.",
+        "Ya dan ikan air asin beruntung karena mereka bisa melakukan itu dan minum melalui mulut mereka.",
+        "Ya itu akan sangat menyenangkan. Saya tidak menyadari bahwa kucing sangat tidur. Pasti menyenangkan.",
+        "Saya kira di situlah frasa \"kucing tidur siang\" berasal",
+        "Oh ya kurasa begitu ha ha. Bahkan ada sebuah kota di Alaska yang memiliki kucing walikota."
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3af00eb1f29525bbd01de"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-22T23:04:33.016Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-22T23:04:33.016Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3af00eb1f29525bbd01df"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent4",
+  "conversations": [
+    {
+      "phrases": [
+        "Hai! Apakah Anda suka menari?",
+        "Saya suka menari banyak. Bagaimana dengan kamu?",
+        "Menari sangat menyenangkan. Tahukah Anda bahwa Bruce Lee adalah penari hebat?",
+        "Ya!! Itu betul. Dia adalah seorang seniman bela diri yang fantastis. Apakah Anda tahu bahwa Tupac menari balet di sekolah menengah?",
+        "Tentu saja! Apakah Anda mendengar tentang sepatu paten khusus Michael Jackson?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3af00eb1f29525bbd01e0"
+      }
+    },
+    {
+      "phrases": [
+        "Saya sangat buruk, tetapi ini adalah saat yang tepat.",
+        "Saya mendengar itu, memenangkan Cha Cha Championships dan segalanya!",
+        "Ya itu luar biasa. Dia memenangkan Kejuaraan Hong Kong Cha-cha pada tahun 1958 pada kenyataannya.",
+        "Saya selalu menganggapnya sebagai legenda seni bela diri. Sekarang dia juga legenda tari!",
+        "Ya! Dia adalah raja tikus di Nutcracker. Itu cukup keren, saya pasti tidak akan pernah menebak tentang dia.",
+        "Aku juga tidak. Itu gila karena Tupac adalah rapper yang terkenal.",
+        "Dia memang, musiknya bahkan di perpustakaan Kongres.",
+        "Saya tidak tahu ini terima kasih telah berbagi.",
+        "Tidak. Saya tahu bahwa Michael Jackson adalah penari yang fantastis tetapi dapatkah Anda memberi tahu saya lebih banyak tentang sepatu patennya jika Anda tidak keberatan.",
+        "Ada perangkat tertentu di sepatunya yang membantu dengan rampingnya yang ekstrem dalam beberapa gerakan tarian.",
+        "Wow!!! Itu luar biasa datang dari penyanyi dan penari yang begitu berbakat. Aku bahkan tidak bisa menari seperti itu bahkan jika aku memimpikannya.",
+        "Aku juga tidak. Saya tidak pernah bisa menjadi penari profesional.",
+        "Saya mendengar bahwa beberapa penari balet profesional dapat melewati empat pasang sepatu dalam seminggu.",
+        "Itu gila! Itu tidak murah untuk mereka.",
+        "Tidak. Saya pikir sangat mahal bagi mereka untuk menjadi penari balet profesional berdasarkan ini.",
+        "Sudah mengobrol hebat tapi saya harus pergi! Harus pergi, dapatkan Bruce Lee, bagian seni bela diri ... jelas bukan tarian.",
+        "Ha ha!!! Itu sangat menyenangkan mengobrol dengan Anda juga !! Semoga harimu menyenangkan!!! Selamat tinggal",
+        "Selamat tinggal"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3af00eb1f29525bbd01e1"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-22T23:04:33.016Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-22T23:04:33.016Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3af00eb1f29525bbd01e2"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent5",
+  "conversations": [
+    {
+      "phrases": [
+        "apa kau suka berdansa?",
+        "Aku menyukainya. Apakah Anda tahu Bruce Lee adalah penari?",
+        "Ya. Apakah Anda tahu penari balet menggunakan banyak sepatu?",
+        "Ya sangat imut. Tahukah Anda Tupac adalah penari balet?",
+        "Ya. Apakah Anda suka Shakespeare?",
+        "Saya suka karyanya. Apakah Anda tahu dia mempopulerkan banyak istilah yang kami gunakan untuk hari ini?",
+        "Ya. Tahukah Anda bahwa karya-karyanya harus berpegang pada bahasa Inggris lama untuk masuk akal?",
+        "Ya. Apakah Anda tahu Tchaikovsky menyumbangkan tengkoraknya dengan harapan akan digunakan dalam drama Shakespeare?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3af00eb1f29525bbd01e3"
+      }
+    },
+    {
+      "phrases": [
+        "Ya dia bahkan memenangkan kejuaraan cha cha pada tahun 1958",
+        "Ya mereka melewati 4 pasang dalam satu minggu",
+        "Ya itu banyak sepatu dan juga banyak uang",
+        "Ya. Bayi juga sangat pandai menari ketika mereka mendengar musik",
+        "Ya dan mereka lebih tersenyum ketika mereka memukul",
+        "Ya dia ada di nutcracker sebagai raja tikus",
+        "Ya istilah-istilah seperti, riddance yang baik, di hati hati saya dan semacamnya",
+        "Ya. Dia hidup pada saat yang sama seperti yang dilakukan Pocahontas",
+        "Aku ingin tahu apakah mereka telah bertemu dengan apa yang akan dia tulis tentang dia.",
+        "Ya poin bagus. Dia juga menemukan beberapa nama wanita",
+        "Ya di antara itu Olivia, Miranda dan Jessica",
+        "Ya terutama dengan punk dan sajak, mereka tidak bekerja dengan bahasa modern",
+        "Ya dan terbiasa begitu bagus. Obrolan yang menyenangkan"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3af01eb1f29525bbd01e4"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-22T23:04:33.017Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-22T23:04:33.017Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3af01eb1f29525bbd01e5"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent6",
+  "conversations": [
+    {
+      "phrases": [
+        "Hai, apakah Anda menggunakan banyak google?",
+        "Ya, saya pikir itu adalah mesin pencari yang paling efektif. Bagaimana dengan kamu? Apakah Anda menggunakan Gmail?",
+        "Apakah Anda tahu bagaimana Google Maps menghitung lalu lintas?",
+        "Saya tidak yakin, bagaimana mereka melakukan ini?",
+        "Tapi saya suka mereka juga suka bersenang-senang. Pernahkah Anda mengetik Askew ke Google?",
+        "Tidak, saya punya. Apa hasilnya?",
+        "Kamu harus mencobanya! Itu memiringkan halaman. Hal yang menyenangkan Google lakukan adalah memanggil nogglers karyawan baru. Mereka harus mengenakan baling-baling beanies. Atau apakah ini artinya?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3af01eb1f29525bbd01e6"
+      }
+    },
+    {
+      "phrases": [
+        "Ya. Pencarian Google mengambil lebih banyak daya komputasi daripada mengirim astronot ke bulan",
+        "Dan sebelumnya di google moon mereka biasa menggunakan keju untuk menutup!",
+        "Mereka melacak seberapa cepat perangkat Android bergerak",
+        "Menarik! Google benar-benar mengambil alih dunia. Penggunaan listrik pusat data mereka adalah 0,01 persen dari semua listrik di seluruh dunia.",
+        "Ya pasti mereka. Mereka telah tumbuh begitu banyak selama bertahun-tahun",
+        "Oh, tidak yakin itu benar-benar. Orang mengatakan itu adalah tempat yang bagus untuk bekerja",
+        "Sebelum Google meluncurkan Gmail, itu adalah nama layanan email gratis yang ditawarkan oleh situs web Garfield. Itu sebenarnya tampak lebih menyenangkan.",
+        "Saya tahu sekarang setiap kali saya membuka gmail saya pikir garfield",
+        "Berbicara tentang kucing, saya ingin bercahaya dalam gelap. Mereka memilikinya di Korea Selatan.",
+        "Wow. Di Jepang dan Taiwan ada kafe kucing di mana Anda dapat bermain dengannya",
+        "Itu sepertinya menyenangkan! Itu mengingatkan saya pada Anderson House Bed and Breakfast di Minnesota. Mereka biasa menawarkan kucing gratis untuk malam ketika Anda memesan kamar.",
+        "Wow. Ada sebuah kota di Alaska di mana walikota kota adalah kucing",
+        "Itu keren. Kucing adalah spesies yang cukup pintar. Belum ada kepunahan spesies kucing dalam 10.000 tahun.",
+        "Mereka memang sangat pintar dan itu membuktikannya. Obrolan yang menyenangkan dengan Anda."
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3af01eb1f29525bbd01e7"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-22T23:04:33.017Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-22T23:04:33.017Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3af01eb1f29525bbd01e8"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent7",
+  "conversations": [
+    {
+      "phrases": [
+        "Apakah Anda suka buku komik?",
+        "Pernahkah Anda mendengar bahwa Harley Quinn memiliki seri buku komik baru yang keluar?",
+        "Saya sudah mendengarnya juga. Tahukah Anda bahwa DC dalam komik DC adalah singkatan dari komik detektif?",
+        "Itu liar! Tahukah Anda bahwa perpustakaan Universitas Negeri Michigan memiliki koleksi buku komik terbesar di depan umum di dunia?",
+        "Tanpa keraguan! Apakah Anda tahu banyak tentang planet atau alam semesta?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3af01eb1f29525bbd01e9"
+      }
+    },
+    {
+      "phrases": [
+        "Saya suka buku komik!",
+        "Saya belum pernah mendengarnya. Saya tahu bahwa legenda buku komik Stan Lee digunakan untuk mengakhiri setiap percakapan telepon dengan \"Excelsior!\"",
+        "Saya baru saja membaca hari ini. Pasar buku komik terbesar ada di Jepang. Aku percaya. Anak saya suka membaca Mangas itu.",
+        "Saya ingin pergi ke sana. Saya dulu suka membaca manga juga.",
+        "Pasar manga adalah Jepang bernilai $ 6 hingga $ 7 miliar dolar!",
+        "Saya tidak tahu itu. Saya bertanya-tanya berapa banyak orang yang menggunakannya. Dibandingkan dengan Jepang, pasar buku komik AS di AS dan Kanada adalah $ 1,09 miliar!",
+        "Itu gila, Jepang jauh lebih ke dalam buku-buku komik daripada Amerika.",
+        "Saya setuju! Marvel Cinematic Universe berlangsung di Bumi -199999, multiverse berbeda dari buku komik asli multiverse, Earth-616!",
+        "Itu sangat liar. Marvel menerbitkan \"buku komik generik,\" untuk merek dagang nama \"superhero\" dan \"super-penjahat.\" Itu cukup pintar dari mereka.",
+        "Aku tahu sedikit. Saya pernah mendengar bahwa Venus tidak miring.",
+        "Yang menarik. Uranus berbeda dengan. Ini benar-benar berputar ke samping dan berguling-guling di sekitar matahari daripada berputar seperti planet lain.",
+        "Itu sangat menarik. Saya juga mendengar bahwa Bulan Ganymede Jupiter akan dianggap sebagai planet jika mengorbit matahari.",
+        "Itu pasti cukup besar! Saya tidak ingin mengunjungi planet yang tidak disebutkan namanya di mana pecahan kaca mengendap ke samping pada 4500 mph!",
+        "Saya tidak melihat bahwa menjadi tempat yang menyenangkan. Ini bahkan cuaca 2000 derajat. Itu terdengar seperti neraka bagiku!",
+        "Hahah itu cara yang baik untuk meletakkannya!",
+        "Yah saya harus mulai bekerja, saya harap Anda memiliki hari yang baik. Itu mengobrol dengan baik denganmu!"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3af01eb1f29525bbd01ea"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-22T23:04:33.017Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-22T23:04:33.017Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3af01eb1f29525bbd01eb"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent8",
+  "conversations": [
+    {
+      "phrases": [
+        "Bisakah Anda percaya ada bintang yang cukup dingin untuk disentuh? Semesta sangat beragam.",
+        "Ya, tapi hanya satu? Untuk semua alam semesta? Sepertinya tidak logika ...",
+        "Hanya ada satu matahari yang menghangatkan bumi dan semua planet lain jadi mengapa tidak hanya satu elektron?",
+        "Mungkin mereka bermaksud mengatakan bahwa alam semesta kita terkandung dalam elektron di alam semesta lain?",
+        "Saya tidak tahu tetapi saya pada akhir pengetahuan tentang hal ini. Apa pendapat Anda tentang fakta-fakta komik? Saya ingin kami menemukan mereka, tetapi Jepang atau Inggris.",
+        "Jepang memiliki sejarah pencetakan yang hebat, saya tidak terkejut tentang hal ini. Apakah Anda membaca buku komik? Saya telah membaca beberapa tetapi bukan tentang super-pahlawan.",
+        "Apakah inspektur gadget komik di atas kertas atau kartun di TV? Saya berbicara tentang apa yang diterbitkan Marvel."
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3af01eb1f29525bbd01ec"
+      },
+      "updatedAt": {
+        "$date": "2021-12-23T23:38:58.849Z"
+      }
+    },
+    {
+      "phrases": [
+        "Luar biasa dan pernah berevolusi.",
+        "Ya dan bahkan ada tempat yang ada tetapi kami tidak akan pernah bisa melihat karena mereka terlalu jauh.",
+        "Mereka mengatakan ruang menarik galaksi di luar alam semesta yang bisa kita lihat",
+        "Ya itulah yang saya katakan, meskipun saya ragu hanya ada satu elektron di alam semesta seperti yang dikatakan beberapa orang.",
+        "Saya tidak melihat sesuatu yang mendukung atau menyangkal teori itu sehingga kami tidak akan pernah tahu pasti.",
+        "Karena elektron adalah bagian dari materi, air yang Anda minum, kursi tempat Anda duduk. Mengatakan hanya ada 1 elektron di alam semesta seperti mengatakan ada 1 butir gandum di roti Anda.",
+        "Masuk akal ketika Anda mengatakannya tetapi dalam hal ukuran alam semesta elektron bisa sangat besar.",
+        "Saya dulu di masa kecil saya tetapi tidak lagi, saya dulu suka inspektur gadget.",
+        "Di atas kertas dan ya saya ingat melihat super-pahlawan dan buku-buku Hulk.",
+        "Saya pikir Hulk ada di Marvel Universe. Tapi seperti yang saya katakan, saya tidak pernah membaca apa pun dari Marvel maupun DC Comics.",
+        "Benar-benar saya juga, ada begitu banyak pilihan komik yang baik ketika saya tumbuh dewasa.",
+        "Tidak di mana saya tinggal, jika saya ingin membaca buku komik, saya harus pergi ke perpustakaan. Tapi seperti yang saya pikirkan tentang it Tintin adalah buku komik, jadi saya salah, saya membaca banyak dari mereka ketika saya masih muda tetapi mereka adalah orang Eropa.",
+        "Mine sepanjang waktu favorit adalah Bozo badut, buku, dan TV keduanya.",
+        "Saya memang melihat banyak kartun di TV, tetapi saya tidak berpikir itu dianggap sebagai buku komik. semoga harimu menyenangkan."
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3af01eb1f29525bbd01ed"
+      }
+    }
+  ],
+  "__v": 7,
+  "createdAt": {
+    "$date": "2021-12-22T23:04:33.018Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T23:38:58.851Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3af01eb1f29525bbd01ee"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent9",
+  "conversations": [
+    {
+      "phrases": [
+        "Apakah Anda penggemar Star Wars? Saya perlu memutar ulang PL dan prekuel sehingga saya dapat menonton hal-hal berikutnya untuk pertama kalinya dan memahami apa yang terjadi.",
+        "Sepakat. Bukankah itu juga lucu James Earl Jones hanya menghabiskan dua setengah jam merekam garisnya untuk Darth Vader? Saya juga tidak percaya dia hanya dibayar $ 7500! Ya ampun, itu perubahan saku.",
+        "Ya saya harus menontonnya juga! Jadi, apakah Anda juga penggemar Chewbacca? Aku mencintai nya. Saya pikir itu lucu ada spesies kelelawar yang disebut kelelawar Chewbacca. Itu lucu!",
+        "Saya ingin melihatnya juga. Apakah Anda tahu Chewbacca sebenarnya punya istri dan dua anak laki-laki? Itu cukup menarik!",
+        "Itu sangat aneh, bukan? Ha! Apakah Anda salah satu penggemar yang percaya keduanya R2D2 dan Chewbacca adalah agen pemberontak rahasia? Saya agak berpikir itu adalah teori yang menarik."
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3af01eb1f29525bbd01ef"
+      }
+    },
+    {
+      "phrases": [
+        "Hai! Ya, saya penggemar berat Star Wars! Saya juga menyukai bagaimana film utamanya yang akan dijuluki di Navajo! Saya pikir itu sangat keren!",
+        "Ya, itu liar. Saya kira itu membawa audiens yang cukup kecil untuk membayar pekerjaan terjemahan.",
+        "$ 7500 luar biasa rendah. Saya kira sejak Darth Vader bertopeng Jones hanya bisa merekam semuanya sekaligus di studio.",
+        "Sepakat. Dapatkah Anda juga percaya bahwa istri George Lucas pada saat itu, Marcia, memenangkan penghargaan akademi karena pengeditannya pada Star Wars dan George Lucas tidak memenangkan Academy Award untuk mengarahkan. Itu benar-benar sulit dipercaya!",
+        "Banyak orang berpikir OT jauh lebih baik daripada prequels karena pengaruhnya.",
+        "Ya itu karena dia bahwa begitu banyak perubahan besar yang dibuat seperti Ciuman Keberuntungan Leia, kematian Obi Wan, dll. Dia benar-benar pengaruh besar!",
+        "Saya ingat berpikir tentang segala sesuatu dalam timeline prequels tidak aktif, berdasarkan versi mental dari masa lalu yang membuat kita membangun. Tapi saya harus kembali untuk memaku.",
+        "Saya tidak pernah merasa kuat tentang Chewbacca dengan satu cara atau TBH lainnya. Tapi saya harus google gambar dari kelelawar itu untuk melihat seperti apa itu!",
+        "Samar-samar saya ingat membaca sesuatu di Universe fiksi Star Wars di mana seorang Han Solo muda tinggal bersama Chewbacca dan ibunya di rumah mereka.",
+        "Saya berharap saya cukup tahu tentang latar belakang untuk memiliki pendapat, tetapi perang bintang terakhir yang saya tonton adalah Episode III, ketika keluar di video. Saya benar-benar perlu mempesona untuk menyegarkan ingatan saya tentang itu.",
+        "Sama disini! Seperti, saya juga lupa bahwa sebelum persahabatan dengan Chewbacca, Hans Solo adalah letnan kekaisaran!",
+        "Ya, saya tidak ingat itu sama sekali. Dia jelas sepertinya tidak seperti tipe.",
+        "Memang dia tidak. Tapi saya selalu menyukai Chewbacca karena dia mengingatkan saya pada seekor anjing raksasa. Ha! Berbicara tentang anjing, saya pikir itu keren bahwa anjing, bersama dengan gajah, adalah satu-satunya hewan yang mengerti menunjuk!",
+        "Saya tidak akan terkejut jika kucing memahaminya tetapi tidak peduli, lol.",
+        "Ha! Tidak bercanda. Berbicara tentang anjing dan kucing, saya suka bagaimana Google lebih suka anjing di atas kucing dan bahkan menyatakan dalam kode etik mereka bahwa mereka adalah perusahaan anjing! Itu mengagumkan!",
+        "Ya, itu kebijakan resmi yang aneh untuk apa yang seharusnya menjadi mesin pencari netral! Obrolan yang menyenangkan dengan Anda."
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3af01eb1f29525bbd01f0"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-22T23:04:33.018Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-22T23:04:33.018Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3af01eb1f29525bbd01f1"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent10",
+  "conversations": [
+    {
+      "phrases": [
+        "Menamai kucing kloning \"Copy Cat\", itu lucu.",
+        "Anda harus memiliki esp. Aku akan memberitahumu hal yang sama! Saya memiliki kisah sedih untuk mengatakan bahwa kurang harimau yang tinggal di alam liar di Asia daripada sebagai hewan peliharaan di AS.",
+        "20 hewan peliharaan Roosevelt dua adalah beruang dan hyena!",
+        "Whoa, keren! Saya tahu dia sepertinya benar-benar kekasih binatang.",
+        "Dan ada lebih banyak hewan peliharaan di Jepang daripada ada anak di bawah 15 tahun. Anda tidak bisa menjadi hewan peliharaan \"pemilik\" di Boulder tetapi Anda bisa menjadi wali mereka.",
+        "Saya punya hewan peliharaan. Saya seorang ailurophile yang berarti saya suka kucing.",
+        "Itu banyak! Dan pada tahun 2002 Jerman memberi mereka hak hukum."
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3af01eb1f29525bbd01f2"
+      }
+    },
+    {
+      "phrases": [
+        "Betulkah? Itu mengerikan untuk mendengar!",
+        "Word keren! Tahukah Anda ada 20 varietas hewan kuintillion di Bumi?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3af01eb1f29525bbd01f3"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-22T23:04:33.018Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-22T23:04:33.018Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3d933aa674e2a74969b45"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent11",
+  "conversations": [
+    {
+      "phrases": [
+        "Saya pikir sedih harus berpisah dengan hewan peliharaan karena alergi dan konflik pasangan seperti di bagian Amy yang terkasih.",
+        "Ya, saya punya seekor anjing. Kedengarannya seperti di Amy sayang bahwa mereka melakukan segalanya untuk TAT. Pemilik kucing menyatakan bahwa tunangannya harus menyingkirkan ikan air asinnya jika dia menyingkirkan kucingnya. Itu belum tentu adil meskipun saya tidak berpikir. Mereka sepertinya bisa berjuang sebagai pasangan di masa depan.",
+        "Ya itu agak dramatis! Seorang pecinta kucing dikenal sebagai ailurophile dan pecinta anjing dikenal sebagai cynophile.",
+        "Alergi bisa serius bagi orang. Saya mengerti cadangannya memiliki kucing.",
+        "Gerakan mengungkap kekerasan seksual demi menghapuskannya. Hewan hewan peliharaan atau pendamping adalah hewan yang disimpan terutama untuk perusahaan, perlindungan, atau hiburan seseorang. Tidak ada yang harus dibuat tidak nyaman oleh hewan peliharaan di rumah.",
+        "Saya yakin dia mencintai hewan peliharaan, tetapi dia harus membuat pilihan jika hewan peliharaan merugikan tunangannya.",
+        "Lebih dari 1,5 juta spesies hewan yang hidup telah dijelaskan. Saya yakin mereka dapat menemukan satu untuk disepakati.",
+        "Itu menarik! Dari 1,5 juta spesies, 1 juta adalah serangga! Benar-benar!",
+        "Rupanya, ada jenis ubur-ubur yang abadi. Jika Anda ingin hidup selamanya, Anda dapat melihat menjadi ubur-ubur.",
+        "Memukau! Di Jepang, ada lebih banyak hewan peliharaan daripada anak di bawah 15 tahun.",
+        "Teddy Roosevelt memiliki lebih dari 20 hewan peliharaan dan \"Teddy\" yang asli \"bersama dengan hyena",
+        "Wow! Ada lebih banyak harimau yang hidup sebagai hewan peliharaan di AS daripada yang hidup di Asia.",
+        "Saya tidak pernah bertemu siapa pun dengan hewan peliharaan harimau. Itu aneh. Tidak sah untuk memiliki hewan peliharaan di Boulder, Colorado tetapi Anda bisa menjadi wali mereka.",
+        "Banyak tempat memiliki hak hewan khusus. Pada tahun 2002, Jerman menjadi negara pertama di dunia untuk secara universal memberi hewan hak hukum yang dijamin secara konstitusional.",
+        "Loch Ness Monster dilindungi oleh 1912 ketentuan Skotlandia",
+        "Itu lucu. Ini bahkan bukan spesies yang terbukti. Ada sekitar 20 trillion hewan individu di planet Bumi.",
+        "Itu sangat keren. Ada beberapa perusahaan yang menawarkan pengujian DNA, dan masing-masing tampaknya menawarkan cara yang berbeda untuk menangani privasi klien",
+        "Pertandingan DNA dapat dihubungkan melalui media sosial."
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b46"
+      }
+    },
+    {
+      "phrases": [
+        "Itu menyedihkan. Apakah kamu mempunyai binatang peliharaan? Pet kloning pertama adalah kucing dan namanya adalah salin kucing.",
+        "Apakah Anda pernah mendengar bahwa hewan mengembangkan bercak putih di dahi mereka ketika mereka dijinakkan? Itu yang baru bagi saya.",
+        "Apakah Anda pernah mendengar orang dihubungi karena pertandingan DNA? Anda dapat memilih masuk atau keluar tetapi mungkin terhubung dengan pertandingan anggota keluarga"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b47"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:04:35.782Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:04:35.782Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3d933aa674e2a74969b48"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent12",
+  "conversations": [
+    {
+      "phrases": [
+        "Hai, apakah kamu suka ikan?",
+        "Ya, saya suka ikan kan?",
+        "Ya, apakah Anda tahu kuda laut hanya ikan untuk memiliki leher?",
+        "Ya menarik, bagaimana dengan kucing kloning pertama bernama Copy Cat?",
+        "Saya tahu, sungguh? Bagaimana dengan hikcup kita berasal dari insang dan paru-paru?",
+        "Apakah Anda tahu berapa banyak hewan individu yang diyakini ada di bumi?",
+        "Ya, 20 kuintillion, bisakah Anda percaya itu? Wow"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b49"
+      }
+    },
+    {
+      "phrases": [
+        "ya saya juga. beberapa dari mereka dapat makan berdoa dua kali ukurannya",
+        "itu sangat keren, dan laki-laki membawa anak muda di spesies itu",
+        "Ya, dan zebrafish sangat menarik.",
+        "ya apakah Anda tahu kami menggunakannya untuk mencari tahu barang-barang untuk diri kita sendiri",
+        "itu keren. Ada ubur-ubur yang abadi",
+        "itu adalah fakta yang keren, kita masih berevolusi jadi mungkin pada akhirnya akan pergi",
+        "LOL, menarik untuk mengetahui loch ness monster adalah spesies yang dilindungi.",
+        "namun tidak ada yang melihatnya untuk mengkonfirmasi keberadaannya",
+        "Saya tahu juga, saya percaya pada Jepang ada lebih sedikit orang di bawah 15 tahun daripada hewan peliharaan.",
+        "Saya bahkan tidak tahu berapa banyak nol dalam jumlah itu",
+        "LOL, saya tahu, saya kira AS memiliki lebih banyak harimau sebagai hewan peliharaan daripada tinggal liar di Asia.",
+        "dan Roosevelt tidak memiliki salah satu dari mereka",
+        "Dia memang memiliki beruang dan hyena. Senang mengetahui Anda adalah wali bukan pemilik di Colorado ke hewan peliharaan.",
+        "Saya juga suka itu. Obrolan yang menyenangkan"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b4a"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:04:35.783Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:04:35.783Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3d933aa674e2a74969b4b"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent13",
+  "conversations": [
+    {
+      "phrases": [
+        "Halo",
+        "Tidak, saya tidak. Saya sebenarnya alergi terhadap kucing. Hewan peliharaan kloning pertama adalah kucing dan namanya salin kucing",
+        "Wow, tidak, saya tidak tahu itu. Ada lebih banyak harimau yang hidup sebagai hewan peliharaan di AS daripada yang hidup di Asia.",
+        "Wow, itu aneh. Dua hewan peliharaan paling populer adalah anjing dan kucing",
+        "Saya memiliki anjing dan dulu memiliki kucing juga tetapi anjing adalah favorit saya.",
+        "Anjing juga favorit saya. Saya berharap untuk mendapatkan yang lain di masa depan.",
+        "Saya memiliki beagle dan collie perbatasan. Saya tidak tahu tentang itu dengan zebrafish. Saya ingin tahu apakah Cures dapat ditemukan dengan menggunakan gen mereka.",
+        "Saya dulu memiliki collie bernama Bimbo. Itu pertanyaan yang bagus.",
+        "Tidak, saya tidak. Ada jenis ubur-ubur yang abadi",
+        "Tentu saja, ada sekitar 20 trillion hewan individu di planet Bumi.",
+        "Dan siapa yang tahu berapa banyak yang belum ditemukan. Hewan benar-benar menarik!",
+        "Ya begitulah. Pada tahun 2002, Jerman menjadi negara pertama di dunia untuk secara universal memberi hewan hak hukum yang dijamin secara konstitusional.",
+        "Saya pikir itu adalah hal yang baik! Saya suka bagaimana Belanda membangun jembatan margasatwa.",
+        "Gerakan mengungkap kekerasan seksual demi menghapuskannya. Terima kasih atas obrolan informatif."
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b4c"
+      }
+    },
+    {
+      "phrases": [
+        "Halo. Apakah Anda punya kucing? Saya melihat bahwa beberapa orang bisa alergi terhadap mereka.",
+        "Itu menarik dan sedikit lucu. Saya tidak tahu ini, tetapi kucing itu adalah hewan peliharaan paling populer di dunia. Apakah Anda tahu bahwa?",
+        "Sekarang saya tidak tahu. Tahukah Anda bahwa beberapa tarantula menjaga katak sebagai hewan peliharaan?",
+        "Apakah Anda punya sekarang? Saya punya dua.",
+        "Tidak, saya tidak. Apa yang Anda miliki? 84 persen gen yang diketahui terkait dengan penyakit manusia memiliki rekan-rekan di zebra",
+        "Milik saya bernama barang-barang lucu. Apakah Anda tahu tentang ikan yang hidup di darat? Aku ingin tahu apa itu.",
+        "Dengan serius? Saya pikir mereka hanya menguap di bawah sinar matahari?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b4d"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:04:35.784Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:04:35.784Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3d933aa674e2a74969b4e"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent14",
+  "conversations": [
+    {
+      "phrases": [
+        "Halo, tahukah Anda bahwa ada lebih dari 1,5 juta spesies hewan yang hidup?",
+        "Tidak, itu penuh dengan fakta menarik. Cegukan adalah residu sejak kami memiliki insang dan paru-paru? Hal-hal menarik.",
+        "Sementara saya pemilik hewan peliharaan, itu berjalan agak jauh. Apakah Anda memberikan hak anjing dan kucing, bagaimana dengan sapi perah atau sapi itu untuk dimakan. Apakah mereka mendapatkan hak yang lebih rendah?",
+        "Ya, dan benar-benar mereka mengatakan kita tahu lebih banyak tentang wajah bulan daripada dasar laut. Siapa tahu apa yang ada di sana kita tidak tahu? Mungkin sepupu Monster Loch Ness.",
+        "Saya membaca itu dan berpikir sama. Saya bertanya-tanya seberapa mirip ikan zebra bagi manusia? Bisakah kita menggunakannya dalam penelitian medis?",
+        "Haha, ya. Sebuah ular juga tampak sangat hangat atau nyaman. Saya tidak mengerti mengapa orang menikmati mereka sebagai hewan peliharaan. Dan bagaimana mereka menemukan mitra yang menerimanya?",
+        "Orang lain yang suka hal-hal itu kurasa, haha. Rupanya Theodore Roosevelt memiliki 20 hewan peliharaan termasuk beruang dan hyena. Aku ingin tahu apakah dia banyak bermain dengan mereka?",
+        "Nah, Presiden Amerika Serikat, saya bertanya-tanya apakah dia memilikinya di Gedung Putih? Apakah dia memiliki stabil untuk ditanggung kembali?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b4f"
+      }
+    },
+    {
+      "phrases": [
+        "Tidak pernah mendengar itu sebelumnya, lol! Ada ikan yang disebut Hitam Swallower yang mampu makan mangsa panjangnya dua kali dan beratnya 10 kali.",
+        "Saya tahu salah satu dari mereka di persaudaraan saya di perguruan tinggi saya pikir. Saya terkejut mengetahui ada jenis ubur-ubur yang abadi. Hanya makhluk di Bumi yang dapat mengklaim bahwa di sini di planet ini.",
+        "Ya kita semua tahu pria itu! Bagaimana dengan monster Loch Ness yang dilindungi di bawah perlindungan hewan Skotlandia 1912. Makhluk-makhluk besar yang luar biasa luar biasa. \"Ikan Jelly Immortal.",
+        "Saya sudah melihat ubur-ubur itu di ponsel saya. Menarik, ya Loch Ness dilindungi dan hewan peliharaan di Boulder, Colorado tidak dimiliki, tetapi dijaga. Menarik bagaimana budaya yang berbeda menangani itu.",
+        "Ceritakan tentang hal itu ternyata ada lebih banyak harimau yang hidup seperti hewan peliharaan daripada yang ada di alam liar di Asia.",
+        "Ya, itu sangat menyedihkan dalam beberapa hal. Senang kami menjaga mereka tetap hidup, mungkin di kebun binatang tetapi punah di alam liar adalah pernyataan sedih di planet ini hari ini.",
+        "Saya setuju. Jerman menjadi negara pertama yang secara universal memberikan hak yang dijamin secara universal.",
+        "Poin yang sangat bagus. Saya dan istri saya menonton Blue Planet. Sangat mengejutkan beberapa hal yang turun di dalam. Mereka masih membuat penemuan setiap hari. Rupanya kuda laut adalah satu-satunya ikan dengan leher.",
+        "Jika Anda pernah mendapat kesempatan, Anda harus memeriksa pertunjukan ini, ada beberapa makhluk luar biasa di sana. 84% gen yang dikaitkan dengan penyakit memiliki rekan-rekan di zebra.",
+        "Jika kita bisa, saya yakin itu akan menjadi pencegahan atau pengobatan. Tidak ada uang dalam benak. Saya tidak menyadari bahwa kami sudah mengkloning kucing dan menamakannya menyalin kucing, itu terlalu lucu.",
+        "Ya, ilmuwan dalam percobaan itu memiliki selera humor. Terkait dengan domestikasi, saya tidak tahu bahwa hewan peliharaan mengembangkan tambalan putih di dahi mereka. Saya bertanya-tanya apa yang menyebabkan itu, sepertinya tidak memiliki alasan evolusi bagi saya.",
+        "Terdengar aneh. Saya tidak bisa memahami mengapa ada yang menginginkan tikus untuk hewan peliharaan. Saya sedikit curiga dari babi dan musang guinea. Apa pun dengan mata merah yang bisa Anda simpan.",
+        "Beberapa hewan harus dijinakkan. Patch putih itu jika benar adalah sesuatu untuk direnungkan.",
+        "Ya memang, fakta menarik yang akan memberi saya jeda akhir pekan ini. Itu adalah percakapan yang menyenangkan. Terima kasih dan semoga akhir pekan yang indah.",
+        "Anda juga!!",
+        "Terima kasih."
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b50"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:04:35.784Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:04:35.784Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3d933aa674e2a74969b51"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent15",
+  "conversations": [
+    {
+      "phrases": [
+        "Hei, bagaimana kabarnya, tahukah Anda apa hewan kloning pertama itu?",
+        "Apakah itu domba? Saya mendengar hewan peliharaan kloning pertama adalah kucing. Namanya adalah Salin Kucing. Itu lucu!",
+        "Wow, itu aneh dan sedih. Berbicara tentang yang mana, apakah Anda mendengar tentang harimau yang ditemukan di tas ransel?",
+        "Tidak, itu benar-benar sedih, harimau yang buruk apa yang terjadi padanya? Mengapa itu ada di dalam tas?",
+        "Ya saya tidak suka itu membuat saya marah, apakah Anda memiliki hewan peliharaan? Saya kira di Jepang ada lebih banyak hewan peliharaan daripada anak-anak di bawah usia lima belas tahun",
+        "Mereka benar-benar mencintai hewan peliharaan mereka ya? Tidak, saya tidak punya hewan peliharaan. Apakah kamu?",
+        "Hmm yang sepertinya bodoh seperti hanya bermain dengan kata-kata, apakah Anda suka teddy roosevelt? Rupanya dia memiliki lebih dari 20 hewan peliharaan, atau seperti yang mereka katakan di Colorado, \"Wali\" haha",
+        "Ya itu membuatku sangat sedih, apa pendapatmu tentang ikan? Saya punya salmon untuk makan malam jadi saya pikir mereka haha ​​lezat",
+        "Apakah kuda laut benar air asin? Saya kira mereka minum air melalui mulut mereka sementara ikan air tawar hanya minum melalui kulit mereka.",
+        "Betapa anehnya! Apakah Anda pikir loch ness monster itu nyata? Ini adalah spesies yang dilindungi!",
+        "haha aku berharap itu nyata! Itu lucu mereka melakukan itu pada tahun 1912, mungkin mereka tahu sesuatu yang tidak?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b52"
+      }
+    },
+    {
+      "phrases": [
+        "Haha ya saya suka itu, apa yang juga liar bagi saya adalah bahwa ada lebih banyak harimau yang hidup sebagai hewan peliharaan daripada ada harimau liar yang tinggal di Asia",
+        "Saya kira itu sedang diselundupkan ke AS dari Meksiko.",
+        "Tidak, kami dulu memiliki seekor anjing tetapi kami hanya mengawasinya sebentar dan pemilik membawanya pergi, kami memiliki banyak hewan peliharaan karena anak-anak seperti iguana dan kelinci dan semacamnya",
+        "Di Boulder, Colorado Anda tidak dapat memiliki hewan peliharaan. Anda bisa menjadi wali mereka.",
+        "Mungkin itu membantu orang untuk merasakan lebih dari kewajiban terhadap hewan peliharaan mereka. Mengangkat bahu. Ya, Teddy Roosevelt adalah pria yang menarik. Sangat disayangkan meskipun orang-orang mencoba mendomestikasikan harimau seperti yang Anda sebutkan. Banyak hewan binasa di sepanjang jalan dari mati lemas atau lapar.",
+        "Ha ha. Lucu. Saya tidak makan makanan laut. Ibuku memaksaku terlalu sering makan salmon ketika aku masih kecil dan aku muak. Haha #firstworldproblems.",
+        "haha ya, yah aku seperti ikan swallower hitam, aku bisa makan salmon dua kali tinggiku dan sepuluh kali beratku karena aku menyukainya",
+        "Lucu. Saya ingin belajar lebih banyak tentang ubur-ubur yang abadi.",
+        "Saya tahu mereka perlu menerapkan gen-gen itu kepada saya! juga aneh tidak ada ikan kecuali kuda laut yang memiliki leher yang sebenarnya",
+        "Ya itu akan benar, juga benar adalah 84% gen penyakit manusia juga dikaitkan dengan zebrafish, kita perlu mempelajari ikan itu juga!"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b53"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:04:35.785Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:04:35.785Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3d933aa674e2a74969b54"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent16",
+  "conversations": [
+    {
+      "phrases": [
+        "Apa yang akan Anda lakukan jika Anda menemukan harimau bayi di dalam tas ransel?",
+        "Apakah itu hal penyelundupan?",
+        "Dengan 20 binatang kuintillion di dunia ini, mengapa ada orang yang merasakan kebutuhan untuk menyelundupkan satu?",
+        "Haha dengan baik hewan yang berbeda pasti bernilai berbeda, saya tidak berpikir nyamuk bernilai seperti lol. Mengapa Anda berpikir hewan bisa mendapatkan bercak putih di dahi mereka?",
+        "Haha saya bertanya-tanya apakah manusia juga mengembangkan tambalan putih ini. Apa pendapat Anda tentang Jerman yang memberikan hak konstitusional kepada hewan? Mereka melakukan itu kembali pada tahun 2002",
+        "Apakah itu berarti meletakkan tas di atas kepala Anda sementara hiccupping dapat menyebabkan Anda de-evolusi? Mungkin itulah yang terjadi pada loch ness monster! Saya senang dia adalah spesies yang dilindungi. Benci untuk berpikir seseorang mungkin menggunakan Bibi Matilda.",
+        "Apakah itu berarti mereka tidak pernah terkena kanker, atau mereka mendapatkan kanker selamanya? Anda tahu, 84% gen yang terkait dengan penyakit manusia juga ditemukan di zebrafish, tetapi saya belum pernah melihat zebrafish dengan penyakit Parkinson ...",
+        "Ha ha. Jika ikan air tawar dapat minum melalui kulitnya, mengapa Anda tidak melihat ikan air tawar mengambang di margarita?",
+        "Haha aku berharap aku bisa minum melalui kulitku dan mengapung di margarita lol. Apakah Anda memiliki hewan peliharaan dengan cara apa pun?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b55"
+      }
+    },
+    {
+      "phrases": [
+        "Aku akan melihat-lihat untuk memastikan Mama Tiger tidak berada di area dan menatapku denganku, \"bubuk kembali anakku\".",
+        "Lol ya kamu tidak ingin berada di sekitar ibu harimau marah haha. Saya kira mereka menemukan satu di perbatasan selatan di Texas, sebuah tas dengan bayi harimau itu",
+        "Ya saya pikir sayangnya. Sayangnya industri penyelundupan adalah perdagangan miliar dolar",
+        "Setelah dijinakkan, hewan mengembangkan bercak putih di dahi mereka, kemungkinan karena pernah di dalam ruangan, mereka berlari ke dinding dan pintu yang dicat dengan kepala mereka. Saya tahu saya lakukan.",
+        "Saya pikir Tenaga Konstitusional Jerman untuk hewan cukup keren. Cantik cantik . Saya belajar tentang itu sambil menonton remake Jerman dari film klasik, \"12 Hamster marah\"",
+        "Baik saya harus menonton film itu. Saya hanya berpikir itu keren bahwa cegukan adalah peninggalan ketika hewan memiliki paru-paru dan insang, jadi lain kali Anda memiliki hikcup berpikir tentang itu lol",
+        "Sangat lucu bahwa itu dilindungi oleh 1912 Hukum Skotlandia, \"perlindungan hewan\". semoga itu berarti bahwa itu adalah binatang asli, tetapi saya ragu",
+        "Ya. Bibi Matilda akan membuat ikan Hag yang lebih baik, atau mungkin kuda laut, karena mereka adalah satu-satunya ikan dengan leher.",
+        "Itu gila! Saya juga berpikir itu gila bahwa ada jenis ubur-ubur yang tidak pernah bisa mati alias abadi",
+        "Haha saya belum melihatnya! Mungkin beberapa orang memiliki penyakit ikan Swallower hitam, karena ikan walet hitam bisa makan mangsa panjangnya dua kali dan 10 kali berat badan mereka haha",
+        "Terlalu banyak untuk di hitung. Kami memiliki hamster, ular, kalajengking, kadal, ikan, kucing, anjing, ayam, burung ... Apartemen kami semakin sempit ...",
+        "Haha itu banyak binatang! Kami memiliki anjing sebenarnya, tetapi saya tidak percaya bahwa ada lebih banyak harimau hewan peliharaan di AS daripada yang liar di Asia, banyak orang harus memiliki hewan peliharaan ilegal di sini"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b56"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:04:35.785Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:04:35.785Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3d933aa674e2a74969b57"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent17",
+  "conversations": [
+    {
+      "phrases": [
+        "Bisakah Anda merekomendasikan film mana pun untuk ditonton?",
+        "Apakah Anda suka Star Wars? Film tentang Hans Solo baru saja keluar di Netflix.",
+        "Apakah itu yang di mana tentang Han Solo muda?",
+        "Ya itu adalah satu, jadi Han Solo tidak dimainkan oleh Harrison Ford, apakah itu memengaruhi pendapat Anda tentang film?",
+        "Orang lain dapat mengisi sepatu Harrison Ford? Mungkin saya akan memeriksa seberapa baik orang Alden ini dalam peran",
+        "Apakah Chewbacca muncul di film ini?",
+        "Apakah Anda ingin menonton film dengan Chewbacca sebagai karakter utama?",
+        "Apakah kamu suka anjing ? Saya mencintai mereka, mereka adalah salah satu hewan peliharaan pertama."
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b58"
+      }
+    },
+    {
+      "phrases": [
+        "Dia melakukan pekerjaan dengan baik, tetapi Han Solo sudah muda di film 1977, saya pikir itu memengaruhi film negatif.",
+        "Ya itu, tetapi bukan aktor yang sama yang melakukan film lain. Saya tidak berpikir itu terlalu penting.",
+        "Saya suka hubungan mereka di film. Chewy adalah teman yang sangat setia",
+        "Di Canon Chewy memiliki keluarga seorang istri dan 2 putra.",
+        "Itu menarik. Saya mendengar George Rr Martin memiliki ilustrasi bahwa Chewie didasarkan dari",
+        "Saya mendengar itu juga, itu di sampul salah satu cerita kecilnya. Ini adalah makhluk yang aneh ketika Anda memikirkannya.",
+        "Aku ingin tahu apa makhluk gila lainnya yang bisa kita miliki di ruang angkasa dengan bantuan Martins. Ada alam semesta fiksi raksasa yang bisa diisi.",
+        "Saya pikir itu akan menarik. Ada juga begitu banyak cerita komik yang bisa diceritakan. Saya hanya ingin tahu bagaimana komunikasi akan bekerja dalam film seperti itu",
+        "Mereka akan menggunakan subtitle. Dan mendongeng yang baik, seperti bagaimana Hans Solo tampaknya memahami niat Chewie, tetapi bukan kata-katanya.",
+        "Ya itu seperti memiliki anjing sebagai sahabat. Tetapi mampu menembak sesuatu",
+        "Ada juga film anjing yang membuka musim panas ini A.x.l. tentang anjing robot.",
+        "Saya harus memeriksanya juga. Terima kasih atas waktunya. semoga harimu menyenangkan",
+        "Ya! Anjing dan gajah bisa mengerti menunjuk"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b59"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:04:35.786Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:04:35.786Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3d933aa674e2a74969b5a"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent18",
+  "conversations": [
+    {
+      "phrases": [
+        "Selamat pagi! Apa kabarmu hari ini?",
+        "Saya setuju! Jenis musik apa yang ingin Anda dengarkan?",
+        "Sama disini! Saya pikir rap telah menjadi signifikansi utama dalam dua puluh tahun terakhir meskipun ya?",
+        "Lucu. Apakah Anda satu untuk topi? Mungkin bukan topi maga, tapi topi pada umumnya?",
+        "Saya memakai topi ketika saya keluar hiking, tetapi itu tentang itu, bagaimana dengan Anda?",
+        "Butuh waktu untuk mencari tahu apa yang terlihat tetapi sekarang saya tahu. Bukankah itu topi paling populer di barat tua juga?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b5b"
+      }
+    },
+    {
+      "phrases": [
+        "Nah, Anda mungkin berada di sisi lain pagar tetapi saya tidak suka Kanye atau Trump.",
+        "Saya tidak bisa mengatakan itu lol yang lebih baik. Itu pertemuan yang aneh di antara mereka dua beberapa bulan yang lalu!",
+        "Saya ingat waktu bahwa Kanye berdiri untuk seorang presiden ketika ia merasakan rasisme, sekarang dia tampaknya telah membalik. Saya kira uang mereka membuat perbedaan besar,",
+        "Perbedaan yang sangat besar. Dia bahkan berpikir AIDS adalah penyakit buatan manusia!",
+        "Orang-orang menyukai cerita konspirasi yang baik. Saya pikir itu adalah bagaimana Trump melakukannya dengan baik, orang-orang percaya pada keadaan yang dalam, dan semacamnya.",
+        "Saya seorang anak berusia delapan puluhan dan tahun sembilan puluhan, saya tidak pernah benar-benar pindah dari adegan batu alternatif itu.",
+        "Telah ada lagu rap aneh yang saya suka, tetapi bagi saya itu budaya. Saya hanya bukan dari lingkungan yang sebagian besar rapper dan tidak dapat menghargai sudut pandang mereka.",
+        "Saya juga setuju! Saya tidak percaya seorang hakim Michigan pernah menyampaikan keputusannya untuk eminem dalam bentuk rap haha.",
+        "Itu agak keren, saya suka ketika orang tidak menganggap diri mereka terlalu serius. Seperti ketika Kanye mengolok-olok dirinya di SNL. Kalau saja dia lebih melakukannya.",
+        "Yang harus dia lakukan adalah berbicara dan terjadi haha. Aku memberinya alat peraga, dia pernah memberikan mikrusnya ke kipas angin di kursi roda di sebuah konser. Namun, saya yakin dia mengatakan kepada seseorang untuk berdiri di kursi roda sebelumnya juga .....",
+        "Umumnya tidak. Saya awalnya dari Inggris jadi saya kira kebanyakan orang akan mengaitkan saya dengan topi bowler, tetapi tidak pernah benar-benar mengenakan semua jenis topi.",
+        "Saya kira itu karena TV dan film, kami mendapatkan ide ini tentang cara itu ditunjukkan ketika kenyataan agak berbeda. Menjadi depresiasi diri sendiri, saya akan mengatakan topi dunces cocok untuk saya dengan baik.",
+        "Kata Well! Saya pikir itu cocok untuk saya juga haha. Di situlah topi pesta kerucut berasal dari!",
+        "Atau mungkin kita bisa memberikannya kepada Mr West lain kali dia ingin berbicara kepadanya kepada kita.",
+        "Atau hanya ketika dia berjalan-jalan menjadi diri yang aneh. Ngomong-ngomong, aku mengobrol hebat denganmu, selamat bersenang-senang!"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b5c"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:04:35.786Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:04:35.786Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3d933aa674e2a74969b5d"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent19",
+  "conversations": [
+    {
+      "phrases": [
+        "Apakah Anda suka mengenakan topi? Ini memiliki begitu banyak fungsi!",
+        "Itu fakta yang sangat menarik. Tahukah Anda sampai tahun 1998 politisi Inggris diminta untuk mengenakan topi atas jika mereka membuat perintah?",
+        "Saya terkejut mereka akan memasukkan setiap rap pada titik ini untuk jujur. Berbicara tentang rap, apakah Anda tahu apa yang diinginkan Eminem sebelum dia seorang rapper?",
+        "Itu baik darinya. Tahukah Anda bahwa Busta Rhymes melakukan pekerjaan suara dalam film animasi?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b5e"
+      }
+    },
+    {
+      "phrases": [
+        "Saya tidak suka mereka pada diri sendiri tetapi saya tahu banyak orang yang dapat menarik mereka.",
+        "Ya saya juga. Dalam topi militer menunjukkan kebangsaan, cabang layanan, pangkat atau resimen.",
+        "Saya perhatikan topi yang berbeda di militer tetapi tidak tahu itu ada hubungannya dengan peringkat.",
+        "Ya mereka memiliki fungsi untuk bermain. Di barat tua, topi paling populer adalah bowler!",
+        "Wow! Mereka selalu menunjukkan stetson atau sesuatu yang dekat jadi saya kaget dengan itu.",
+        "Ya saya juga! Tips dari topi itu muncul dari ksatria mengangkat visor wajah mereka. Sangat tersentak dari mereka!",
+        "Oh wow itu sepertinya tradisi lama. Jenis seperti topi pesta kerucut yang berasal dari topi Dunce!",
+        "Itu juga topi aneh. Sejauh tradisi lama dalam politik Inggris, saya tidak mengerti mengapa mereka masih mengenakan wig bubuk di pengadilan. Sangat aneh.",
+        "Sepakat. Mereka terlihat sangat konyol menurut saya. Banyak pakaian rap terlihat konyol juga. Tetapi rapper Tupac sangat berbakat ketika musiknya berada di perpustakaan Kongres signifikansi budaya.",
+        "Saya tidak tahu itu. Sangat menarik. Rapper juga memiliki keyakinan aneh. Seperti Kanye Barat yang berpikir AIDS adalah penyakit buatan manusia.",
+        "Eminem sebenarnya ingin menjadi artis buku komik. Kanye West sangat aneh dan memiliki banyak ide aneh.",
+        "Ya dia. Tetapi dia telah melakukan beberapa hal baik seperti memberikan mic ke kipas angin di kursi roda di konsernya.",
+        "Oh ya kamu benar. Dia adalah Reptar Wagon di film Rugrat 1998!",
+        "Ya dia. Dia memiliki suara yang berbeda jadi saya tidak tahu bagaimana saya melewatkannya pada awalnya.",
+        "Poin bagus. Saya tidak tahu rap itu populer di Korea. Mereka menciptakan bentuk duel rap yang disebut pertempuran pujian! Terima kasih sudah bicara dengan saya hari ini!",
+        "Saya juga tidak tahu itu. Itu harus terdengar jauh berbeda dari pertempuran rap di sini. Sangat menyenangkan berbicara dengan Anda juga.",
+        "Ya di sini mereka jauh lebih agresif! Selamat!"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b5f"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:04:35.787Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:04:35.787Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3d933aa674e2a74969b60"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent20",
+  "conversations": [
+    {
+      "phrases": [
+        "Apakah Anda melihat bahwa Kanye memiliki anak lain?",
+        "Ok ... mengapa mereka melakukan itu? Kardashian tidak bisa punya bayi?",
+        "Saya tidak akan meragukannya. Berbicara tentang dia, apakah Anda suka musik rap? (mencoba menutupi topik! haha)",
+        "Bukankah musik membutuhkan melodi? ;)"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b61"
+      }
+    },
+    {
+      "phrases": [
+        "Saya mendengar sesuatu tetapi saya tidak benar-benar mengikuti keturunannya :)",
+        "Saya melihat bahwa mereka menggunakan pengganti dan hanya membayar 70k. Saya ingin lebih banyak dari itu!",
+        "Ok, ya itulah yang saya baca ... dan seseorang perlu menjelaskan kepada saya, bagaimana menggunakan pengganti benar-benar berfungsi ...",
+        "Penjelasan sederhana: mereka mengambil telur dari ibu, sperma dari Ayah - menyatukan dan kemudian ke orang lain.",
+        "Tidak yakin jujur, saya ingin tahu juga.",
+        "Saya pikir itu hanya hal lain untuk dilakukan untuk berada di sampul majalah dan memiliki banyak wawancara ... ini adalah dunia yang gila ...",
+        "LOL;) Tidak, tidak benar-benar ... Saya tidak menganggapnya sebagai musik;)",
+        "Maksudku - saya pikir itu pasti musik ... tapi saya setuju bukan tipeku.",
+        "Banyak rap memang memiliki itu!",
+        "Sampel pada keyboard tidak dihitung;)",
+        "Saya berpikir Anda belum mendengar lebih dari apa yang ada di radio",
+        "Mungkin Anda benar, saya tidak ingin berdebat;) Bukan secangkir teh saya :) Saya lebih dari penggemar blues. Batu klasik, mungkin logam. ;)",
+        "Saya akan cukup banyak mendengarkan apa pun kecuali negara. Itu adalah Tuhan yang mengerikan",
+        "Saya tidak mendengarkan negara tetapi saya tidak keberatan. Ini memiliki pesona itu sendiri dan mengambil keterampilan untuk bermain dan menyanyikan ...",
+        "Saya seharusnya. Sama seperti kebanyakan musik apa yang dimainkan di radio hanyalah sampah",
+        "Saya setuju ... Maksud saya saya belum mendengar sesuatu yang baru itu bagus. Mungkin kecuali Komuni Negara Hitam ... Band Hebat",
+        "Tidak bisa mengatakan saya kenal mereka!"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b62"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:04:35.787Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:04:35.787Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3d933aa674e2a74969b63"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent21",
+  "conversations": [
+    {
+      "phrases": [
+        "Apakah Anda suka musik rap?",
+        "Itu akan lucu. Berbicara tentang Eminem, tahukah Anda bahwa mimpi sejatinya adalah menjadi artis buku komik?",
+        "Saya juga tidak tahu itu. Itu cukup menarik. Tahukah Anda bahwa rapper Korea menemukan tipe gaya bebas tipe baru?",
+        "Ya, topi koboi lebih sebagai topi kerja bukan? Apakah Anda tahu itu sampai 1998, politisi harus mengenakan topi atas jika membuat titik ketertiban di House of Commons?",
+        "Big Sean? Aneh, kebanyakan belum pernah mendengarnya. Saya suka nama tengah Kanye, Omari,.",
+        "Saya suka sandiwara Saturday Night Live dari Trump. Salah satu Brett Kavanaugh itu lucu, pernahkah Anda melihatnya?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b64"
+      }
+    },
+    {
+      "phrases": [
+        "Saya lakukan, tetapi saya tidak bisa mentolerir Kanye West. Saya suka tupac, dan berpikir itu menarik bahwa perpustakaan Kongres memilih musiknya untuk dimasukkan karena secara budaya signifikan.",
+        "Saya setuju, musik lama Kanye sangat bagus. Dia di luar sana. Sama seperti bagaimana dia berpikir AIDS adalah penyakit buatan manusia.",
+        "Aku hanya tidak peduli padanya. Saya akan senang telah berada di ruang sidang, hari seorang hakim memutuskan untuk memberinya keputusan untuk eminem, dalam gaya rap.",
+        "Ya, Spidey adalah favoritnya. Saudaraku dulu menyukai rugrat ketika dia masih kecil, aku hanya tahu baru-baru ini, bahwa busta sajak menyuarakan gerobak Reptar di film.",
+        "Pertempuran pujian, lol. Saya akan senang mendengarnya. Saya suka bagaimana orang berpikir topi koboi adalah yang paling populer di Old West, namun itu benar-benar bowler.",
+        "Aku tidak. Kedengarannya menarik. Sama seperti \"ujung topi\" berasal dari Ksatria yang mengangkat visor mereka.",
+        "Itu menarik juga. Saya mendengar bahwa pada tahun 1908 suatu hukum diteruskan membatasi panjang hatpin.",
+        "Mereka melakukan itu, jadi mereka tidak akan digunakan sebagai senjata. Pindah pintar.",
+        "Ya itu dia. Aku benci ditikam sampai mati dengan topi.",
+        "Itu terdengar seperti cara yang menyakitkan untuk mati. Saya suka fakta bahwa Kanye memberikan mikrusnya ke kipas angin di kursi roda. Dia memang memiliki beberapa kualitas penebusan.",
+        "Ya dia memang punya beberapa. Dia pernah melakukan mocking skit SNL untuk menjatuhkan penghargaan menunjukkan .... 2 tahun sebelum insiden Taylor Swift yang terkenal.",
+        "Saya tidak tahu apa itu, karena saya juga tidak memperhatikannya. Saya masih menemukannya Mindblowing bahwa Big Sean menolak beasiswa ke Michigan, untuk pergi rap.",
+        "Ya itu cukup bagus. Dia membuat pilihan yang bagus, kurasa, dia salah satu rapper terbesar di dunia saat ini. Dia selalu bisa kembali.",
+        "Jadi inisialnya adalah K.O.W. Itu lucu!",
+        "Ya itu lucu!",
+        "Terima kasih telah mengobrol dengan saya, semoga harimu menyenangkan.",
+        "Saya menikmatinya, saya harap Anda memiliki hari yang menyenangkan juga."
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b65"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:04:35.788Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:04:35.788Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3d933aa674e2a74969b66"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent22",
+  "conversations": [
+    {
+      "phrases": [
+        "Halo. Tahukah Anda bahwa ada meja permen di Senat AS?",
+        "Permen apa yang dibuat di Pennsylvania selain Hershey?",
+        "Senat bisa sangat keren, haha. Apakah Anda mendengarnya pada tahun 1988 mereka menangkap para senator untuk memaksa mereka memilih? Saya pikir hal-hal semacam itu hanya terjadi pada rumah kartu",
+        "Berbicara tentang keadilan Tahukah Anda bahwa tidak semua orang di Inggris dapat memilih sampai 1918?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b67"
+      }
+    },
+    {
+      "phrases": [
+        "Haha Ya, saya mendengar tentang itu. Sudah ada sejak 1968.",
+        "Saya kira mereka semua suka permen! Setidaknya itu milik Amerika. Permen dibuat di Pennsylvania.",
+        "Mereka punya bar susu, bar mars, dan bahkan jelly beans!",
+        "Wow, itu lebih dingin daripada fakta bahwa mereka tidak membiarkan wanita memakai celana hingga 1993.",
+        "Aku tahu. Sangat mengejutkan bagi saya bahwa butuh waktu lama bagi dua senator wanita untuk memprotes dengan mengenakan celana di lantai senat.",
+        "Mereka mengenakan celana, mereka tetap berkelas. ha ha.",
+        "Ya mereka melakukannya. Senat sangat besar pada tradisi. Mereka menggunakan palu yang sama selama 165 tahun sampai retak.",
+        "Saya telah mendengar tentang itu. Salah satu senator mencoba melarikan diri dan dibawa terlebih dahulu ke dalam Ruang Senat oleh tiga petugas!",
+        "Ya, saya pikir aturan itu mungkin dari sebelum senator terpilih. Mereka tidak terpilih sampai 1913.",
+        "Pemilihan adalah hal yang baik dan buruk. Saya pernah mendengar suatu tempat bahwa orang-orang Athena kuno sampai pada kesimpulan bahwa pemilihan akan mengarah pada oligarki.",
+        "Saya pikir itu mungkin karena tidak ada yang memilih. Pemilih berubah belum lebih tinggi dari 62% dalam 100 tahun.",
+        "Mungkin beberapa orang berpikir tidak perlu memilih. Penelitian menunjukkan bahwa kandidat yang lebih tinggi memenangkan sebagian besar waktu.",
+        "Kita harus meminta orang-orang terpilih dengan lotere. Itulah yang biasa dilakukan Athena.",
+        "Sepertinya itu adalah apa yang kita miliki sekarang. Saya pikir lebih banyak negara daripada hanya Nevada Show tidak memiliki kandidat ini tentang surat suara mereka.",
+        "Ya, mudah-mudahan kita akan melihat beberapa reformasi pemilihan segera, semoga kita bisa melihat ini akan meningkatkan keadilan.",
+        "Tidak. Tapi, saya mendengar bahwa astronot dapat memilih dari luar angkasa.",
+        "Itu luar biasa dan sangat ditentukan. Ini seperti India menyiapkan stan hanya agar satu orang dapat memilih di hutan yang penuh dengan singa!"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b68"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:04:35.788Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:04:35.788Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3d933aa674e2a74969b69"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent23",
+  "conversations": [
+    {
+      "phrases": [
+        "Hai, apakah Anda penggemar Star Wars?",
+        "Bagus! Apakah Anda melihat film pertama ketika keluar pada tahun 1977? Saya ingat pergi ke teater untuk melihatnya.",
+        "Rubah abad ke-20 tidak berpikir bahwa Star Wars akan berhasil. Apakah Anda tahu apa yang terjadi pada perizinan dan hak merchandising Star Wars?",
+        "Bukankah George Lucas mengambilnya?",
+        "Tidak apa-apa. Marcia juga berhak atas uang itu. Dia ingin penghargaan itu, ingat?",
+        "Wow. Itu pasti tidak. Saya ingin tahu apakah dia mendapat biaya lisensi sama sekali untuk Darth Vader? Pada subjek yang berbeda .... Tahukah Anda bahwa permukaan bumi adalah air 71 persen dan tanah 29 persen?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b6a"
+      }
+    },
+    {
+      "phrases": [
+        "Anak saya, jadi saya tahu sedikit tentang itu.",
+        "Tidak, aku tidak melakukannya. Anak saya pergi bersama teman-temannya. Rupanya, Star Wars dijuluki di Navajo pada tahun 2013.",
+        "Pasti ada pasar yang cukup besar bagi mereka untuk melakukan itu. Mereka punya uang untuk melakukannya dengan pasti. Hanya box office sendirian waralaba Star Wars telah membawa lebih dari $ 8,5 miliar dolar!",
+        "Ya, karena mereka tidak ingin membayar biaya pengarahan tambahan ke Lucas.",
+        "Bagus. Dia mencetak gol waktu besar karena seluruh waralaba Star Wars diperkirakan $ 65 miliar dolar!",
+        "Rubah abad ke-20 dihindari untuk membayar biaya tambahan hanya $ 500k ke Lucas. Mereka bersedia memberikan lisensi dan merchandising kepadanya. Seseorang dipecat di perusahaan, saya akan bertaruh.",
+        "Kamu tahu itu! Istri George Lucas Marcia memenangkan Academy Award untuk mengedit film!",
+        "Saya mendengarnya. Dia berbakat. Ngomong-ngomong, Marcia tidak lagi menikah dengan Lucas.",
+        "WHOA! Saya tidak tahu itu. Mungkin George tidak memiliki sebanyak $ 65 miliar seperti yang saya kira. Yikes.",
+        "Ya! LOL James Earl Jones hanya membutuhkan 2,5 jam untuk merekam semua bagian untuk Darth Vader untuk film aslinya.",
+        "Maaf, apa yang saya maksud adalah \"dia memenangkan penghargaan\". Tentang James Earl Jones - Saya pikir dia hanya dibayar $ 7500 untuk karyanya. Itu tidak adil."
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3d933aa674e2a74969b6b"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:04:35.789Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:04:35.789Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3db0b0290268290b4f149"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent26",
+  "conversations": [
+    {
+      "phrases": [
+        "Apa! Tidak, saya tidak tahu itu, itu sangat menarik.",
+        "Juga, para astronot memilih dari luar angkasa, sehingga kita semua tidak memiliki alasan untuk tidak mencapai pemilihan.",
+        "Bukan saya. Ceritakan lebih banyak.",
+        "Dia ditanya mengapa dia akan mendukung seorang Demokrat, dan dia berkata karena republiken membeli sepatu juga. Saya pikir itu lucu.",
+        "Haha, itu lucu! Nevada adalah satu-satunya negara yang memiliki opsi pemilihan pemilihan \"tidak satu pun dari kandidat ini untuk pemilihan presiden.",
+        "Ya saya pikir undang-undang pemungutan suara Nevada cukup aneh.",
+        "Pemilih pemilih untuk pemilihan presiden AS belum dilanggar 62,8% dalam 100 tahun terakhir! Itu sebenarnya lebih dari yang saya kira.",
+        "Yah, kita akan melihat bagaimana pemungutan suara akan dilakukan dua puluh tahun dari sekarang, jika mereka memudahkan, jumlahnya mungkin akan naik.",
+        "Itu benar. Tidak semua pria di Inggris memiliki hak untuk memilih sampai 1918.",
+        "Saya bertanya-tanya berapa banyak penipuan di sana memilih kembali pada tahun 1918.",
+        "Saya yakin banyak. Pemilihan cukup baru. ROM 1789 hingga 1913, para senator ditunjuk oleh legislatif negara yang mereka wakili; Mengikuti ratifikasi amandemen ketujuh belas pada tahun 1913, mereka sekarang terpilih.",
+        "Bukan saya. itu sudah lama sekali! Wanita tidak diizinkan mengenakan celana pada A.S. Lantai Senat hingga 1993.",
+        "Saya pikir itu adalah fakta paling aneh dari hari itu. Saya pikir itu liar ketika pengamat harus diblokir dari jajak pendapat selama pemilihan.",
+        "Aneh dan aneh! Pemerintah Dian membentuk bilik pemungutan suara di hutan yang penuh singa untuk satu pemilih.",
+        "Saya pikir saya sudah membacanya sebelumnya! Liar untuk dipikirkan.",
+        "Obrolan yang menyenangkan dengan Anda. Terima kasih!"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3db0b0290268290b4f14a"
+      }
+    },
+    {
+      "phrases": [
+        "Itu gila, tapi bisa dimengerti. Dan Anda benar, memberi kita alasan. Apakah Anda tahu tentang transaksi politik Jordan?",
+        "Itu fakta yang sangat menarik. Apakah Anda ingat pertama kali Anda memilih?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3db0b0290268290b4f14b"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:12:27.822Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:12:27.822Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3db0b0290268290b4f14c"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent27",
+  "conversations": [
+    {
+      "phrases": [
+        "Hei, bagaimana kabarmu, tidak percaya bahwa Senator Georgia ditangkap!",
+        "Dia bilang dia nyanyian damai.",
+        "Itu menarik, saya berharap suara berbeda sekarang, tidak ada alasan untuk masih memiliki surat suara tanpa liburan federal untuk hari pemilihan.",
+        "Sangat menarik bahwa para astronot memilih dari luar angkasa!",
+        "Benar, aku harus melihatnya. Pemerintah India mendirikan sebuah stan pemungutan suara di hutan yang penuh dengan singa untuk hanya satu pemilih.",
+        "Ya saya lakukan. Dan meskipun kita tidak harus pergi ke hutan yang penuh singa, pemilih pemilih untuk pemilihan presiden AS belum mencapai 62,8 persen dalam 100 tahun terakhir.",
+        "Itu gila, saya bertanya-tanya apakah mereka akan memperbaikinya, banyak hal yang dapat mereka lakukan tentang itu tetapi tidak pernah mencobanya.",
+        "Sejak 1900, kandidat yang lebih tinggi telah memenangkan pemilihan presiden AS. Semoga itu hanya kebetulan!",
+        "Oh wow, itu cukup gila. Saya 6'4 \", saya harus berlari untuk Presiden LOL.",
+        "Ha, mungkin Anda harus melakukannya. Pejabat di Athena tidak memiliki banyak kepercayaan pada pemilihan. Mereka pikir itu akan menyebabkan oligarki.",
+        "Di situlah kekuasaan terkonsentrasi pada sekelompok kecil orang.",
+        "Tidak yakin saya memiliki iman kepada siapa pun, karena semua peradaban besar berakhir. Sepertinya kita masih belum berkembang sekalipun. Wanita tidak bisa memakai celana di lantai Senat AS hingga 1993 setelah beberapa senator wanita memprotes dengan mengenakan celana.",
+        "Oh wow, itu gila bagaimana seksis mereka masih. Saya setuju tentang peradaban besar yang berakhir, mereka semua berpikir mereka akan berada di sekitar selamanya.",
+        "Saya pikir menarik bahwa para astronot memilih dari luar angkasa. Namun, kami memiliki penambahan rendah untuk pemilihan presiden bagi kita di bumi, Haha.",
+        "Yang pasti, saya bertanya-tanya mengapa orang tidak banyak muncul, saya berharap mereka akan lebih!",
+        "Ya, pemerintah India mendirikan bilik polling di hutan yang penuh singa untuk satu pemilih, itu cukup rapi.",
+        "Sangat keren. Obrolan hebat dengan Anda, saya akan lepas landas, berhati-hatilah!"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3db0b0290268290b4f14d"
+      }
+    },
+    {
+      "phrases": [
+        "Yang pasti, saya bertanya-tanya apakah itu rahasia di sana? Bagaimana itu kembali ke bumi?",
+        "Aku ingin tahu apakah orang itu bahkan muncul untuk memilih, atau mengapa dia berada di hutan seperti itu haha. Apakah Anda memilih pemilihan terakhir?",
+        "Oh wow, itu pemikiran maju. Apa itu oligarki lagi?",
+        "Ah aku gotcha, mereka agak benar aku yakin. Saya bertanya-tanya apa sistem pemerintahan yang sempurna? Adakah ide?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3db0b0290268290b4f14e"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:12:27.825Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:12:27.825Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3db0b0290268290b4f14f"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent28",
+  "conversations": [
+    {
+      "phrases": [
+        "Apakah Anda menonton film beku?",
+        "Saya melakukannya dan sangat menyukainya, dan Anda?",
+        "saya juga. Tahukah Anda bahwa ini adalah film pertama oleh Disney yang diarahkan oleh seorang wanita?",
+        "Ya. Anda memiliki hewan peliharaan?",
+        "Saya memiliki dua kucing dan seekor anjing. Apakah kamu suka anjing?",
+        "Saya suka anjing. Apakah Anda di sana mereka dapat memiliki salah satu dari 12 jenis darah?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3db0b0290268290b4f150"
+      }
+    },
+    {
+      "phrases": [
+        "Ya dan juga itu menghasilkan $ 1 miliar, itu luar biasa",
+        "Aku tahu. Elsa adalah penjahat utama dalam skrip asli film",
+        "Ya tapi biarkan lagu itu terlalu mengangkat untuk membuatnya sebagai penjahat",
+        "Ya. Dan judul asli film itu adalah ratu salju",
+        "Ya tetapi mereka mengubahnya karena gelar feminin tampaknya tidak melakukannya dengan baik, sangat sedih",
+        "Itu menyedihkan dan hanya mentalitas bahwa kita harus bekerja keras untuk berubah",
+        "Yup setuju. Mereka juga mengubah Rapunzel untuk kusut untuk alasan yang sama",
+        "Ya dan ada drive darah untuk anjing",
+        "Keren abis. Di Istanbul mereka telah memasang dispenser air dan makanan untuk anjing",
+        "Ya dan yang harus Anda lakukan adalah memakannya botol plastik",
+        "Ya ide jenius dan itu membantu semua orang yang terlibat",
+        "Aku tahu. Anjing benar-benar pandai menunjuk",
+        "Ya dan sama berlaku untuk gajah juga",
+        "Ya. Google adalah perusahaan anjing yang tampaknya",
+        "Ya mereka memilikinya dalam kode etik mereka, berbicara tentang dedikasi",
+        "Saya tahu benar, anjing layak menerima itu"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3db0b0290268290b4f151"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:12:27.826Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:12:27.826Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3db0b0290268290b4f152"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent29",
+  "conversations": [
+    {
+      "phrases": [
+        "Apa kamu suka baseball ?",
+        "Saya telah mendengarnya. Apakah kamu?",
+        "Saya pikir mereka akan lebih baik di Softball, apakah Anda pernah menonton pertandingan softball?",
+        "Gelandangan? Saya tidak pernah memikirkan penghasilan dalam hal hobo, meskipun saya kira mereka menghasilkan uang melalui cara mereka yang terlarang.",
+        "Bisakah Anda memenangkan uang melalui taruhan? Itu selalu melegitimasi olahraga.",
+        "Sebagai penembakan, dan itu bahkan olahraga Olimpiade, tetapi aneh untuk melihat pria gemuk merokok memenangkan medali. Apakah Anda bermain video game?",
+        "Saya dulu bermain video game. Tidak banyak sekarang. Bunga yang hilang. Apakah kamu?",
+        "Penting untuk menjaga anak-anak kehilangan diri mereka sendiri dalam permainan. Negara mana yang membatasi video game?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3db0b0290268290b4f153"
+      }
+    },
+    {
+      "phrases": [
+        "Saya suka, olahraga tetapi tidak ada tim MLB di kota saya, jadi saya tidak menontonnya. Tetapi saya merasa sangat menarik, penuh detail kecil, seperti manajer mengenakan seragam sehingga mereka dapat mengganti pemain jika perlu.",
+        "Itu mungkin merupakan peninggalan dari masa lalu ketika seorang pemain dipilih untuk menjadi manajer. Saat ini, itu tidak akan berhasil.",
+        "Ya, saya bertanya-tanya apakah itu bisa berbahaya bagi sebagian dari mereka, seperti beberapa orang bisa mengalami serangan jantung.",
+        "Ya, tidak ada perusahaan asuransi yang menyentuh manajer di lapangan, itu sudah pasti.",
+        "Saya belum pernah menonton permainan softball, meskipun saya mengerti banyak wanita memainkannya.",
+        "Saya pikir ini lebih merupakan hobi daripada olahraga profesional, gaji rata-rata adalah sekitar 5500 $ per tahun, beberapa Hobos menghasilkan lebih banyak.",
+        "Panhandling bisa sangat menguntungkan, untuk seseorang tanpa penghasilan. Seperti di tempat yang sibuk sebagai Manhattan. Tetapi bahkan jika saya tidak menganggap Softball sebagai pro olahraga yang sah, jika merupakan acara pertama yang ditayangkan di ESPN.",
+        "Ya, jika itu adalah kriteria Anda, maka video game adalah olahraga yang sah. Mereka memiliki liga dan banyak taruhan dilakukan pada pertandingan.",
+        "Mereka adalah fisik untuk apa yang mereka lakukan, tetapi hanya di tangan.",
+        "Saya juga, saya telah kehilangan minat bermain sebelum saya kehilangan minat untuk membelinya jadi saya memiliki simpanan beberapa game yang mengingatkan saya untuk tidak membeli konsol berikutnya. Ini semakin populer, 3 jam Bonon dimainkan di video game setiap minggu di Bumi.",
+        "Wow. Begitu banyak waktu di game. Saya kira itu hampir sama dengan waktu yang dihabiskan menonton TV.",
+        "Ya, tetapi video dipandang lebih negatif daripada TV, itulah sebabnya Anda memiliki undang-undang di beberapa negara yang membatasi waktu yang dimainkan oleh anak-anak.",
+        "Ada anak-anak Korea membatasi di bawah 16, dan Cina saya pikir. Sebagian besar negara-negara Asia.",
+        "Anak-anak di sana pergi kacang-kacangan di atas permainan. Saya tahu bahwa ada gamer pro di Korea. Bagaimanapun, Obrolan menyenangkan!",
+        "Anda juga, selamat malam."
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3db0b0290268290b4f154"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:12:27.826Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:12:27.826Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3db0b0290268290b4f155"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent30",
+  "conversations": [
+    {
+      "phrases": [
+        "Hai, apakah Anda penggemar baseball?",
+        "Saya suka baseball. Saya biasanya menonton seri dunia. Anda?",
+        "Wow. Saya mungkin akan menjual beberapa, dan menjaga sisanya sebagai investasi. Apa yang akan kamu lakukan?",
+        "Saya akan melakukan persis sama dengan Anda. Bagaimana Anda tidak bisa meneruskannya untuk mengatur diri sendiri seumur hidup? tertawa terbahak-bahak",
+        "Ya, itu cukup beruntung. Apakah Anda mengikuti softball sama sekali?",
+        "Betulkah? Game Womens? Apakah pria bermain juga?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3db0b0290268290b4f156"
+      }
+    },
+    {
+      "phrases": [
+        "Saya penggemar. Tahukah Anda bahwa manajer baseball mengenakan seragam karena secara teknis mereka dapat bermain untuk tim mereka jika diperlukan.",
+        "Saya pikir itu adalah peninggalan dari masa lalu. Saya bertaruh kemudian seorang pemain dipilih untuk juga menjadi manajer.",
+        "Saya tidak yakin bagaimana itu berhasil. Yang terakhir melakukan yang saya ingat adalah Pete Rose kembali pada akhir 80-an. Dia bermain setiap hari dan dikelola pada saat yang sama.",
+        "Ya, dia adalah pria yang kompetitif. Mungkin sempurna untuk peran ganda manajer / pemain.",
+        "Sampai tahun 2005 pasangan yang sudah menikah menjadwalkan semua 2430 pertandingan baseball liga utama dimainkan setiap tahun selama 24 tahun! Saya yakin itu bisa membingungkan.",
+        "Ya, saya pikir itu semua dilakukan oleh komputer. Saya kira mereka memiliki pertunjukan yang cukup manis.",
+        "Harus membayar cukup baik jika tidak, saya tidak berpikir mereka akan melakukannya selama itu. Seorang pria menemukan kartu baseball senilai 3 juta dolar dalam loteng kakek yang disembunyikan sejak tahun 1940-an. Dia menabrak jackpot.",
+        "Saya benar-benar menikmati menonton softball perguruan tinggi di Espnu!",
+        "LOL Saya menonton para wanita karena pitcher benar-benar mengguncang bola itu ke piring. Pada 11 Mei 1991 Creighton Hosted Utah dalam pertandingan softball terpanjang di NCAA History yang berlangsung 31 inning!",
+        "Ya, pitch curang itu benar-benar bisa bergerak. Itu adalah satu permainan panjang! Tidak banyak karir setelah kuliah. Pada 2014, gaji rata-rata untuk pemain softball profesional antara $ 5.000 dan $ 6.000.",
+        "Tidak. Tidak cukup penggemar untuk mendukungnya. LOL Jose Canseco mengklaim memegang rekor untuk homerun softball terpanjang di 622 kaki. Dia mungkin memilikinya. Saya telah menontonnya memukul softballs di YouTube. Dia menghancurkan mereka bahkan sampai hari ini.",
+        "Dia punya jus untuk memukul bola satu mil. Saya tidak tahu dia bermain softball.",
+        "Lihat di YouTube. Saya terkejut seberapa jauh bola pergi. LOL Kickball juga disebut Soccer-Baseball di Kanada! lol itu menyenangkan mengobrol!",
+        "Ya, itu menyenangkan mengobrol! Selamat berakhir pekan!",
+        "Anda memiliki akhir pekan yang hebat juga!"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3db0b0290268290b4f157"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:12:27.827Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:12:27.827Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3db0b0290268290b4f158"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent31",
+  "conversations": [
+    {
+      "phrases": [
+        "Hai, bagaimana kabarmu malam ini?",
+        "Hei, aku baik-baik saja. Apa yang Anda pikirkan tentang film Disney beku?",
+        "Saya belum melihatnya. Apakah ini film yang bagus? Ini animasi, bukan? Dengan banyak lagu?",
+        "HC menulis begitu banyak kisah hebat. Saya membaca ratu salju sejak lama. Saya tidak ingat itu. Ambil film ini memenangkan penghargaan?",
+        "Itu hal yang baik. Saya yakin lagunya sudah habis untuk penghargaan di suatu tempat. Siapa orang yang terlibat dalam film itu?",
+        "Oh, aku yakin. Apakah Anda suka anjing? Kami dulu memiliki husky sendiri",
+        "Saya tau? Saya harap anjing-anjing itu memperlakukan setidaknya haha. Tahukah Anda bahwa Istanbul memiliki mesin penjual otomatis yang menghargai anjing-anjing liar untuk membawa kembali sampah?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3db0b0290268290b4f159"
+      }
+    },
+    {
+      "phrases": [
+        "Ya itu menggunakan animasi komputer dan memiliki lagu cinta. Itu sangat populer. Ada lagu yang dikatakan semua anak kecil yang disebut \"biarkan saja dan kurasa itu didasarkan pada Hans Christian Andersen dongeng yang disebut Ratu Salju",
+        "Saya cukup yakin bahwa itu, saya tahu itu menghasilkan banyak uang. Rupanya penjahat itu digunakan untuk menyanyikan lagu yang saya sebutkan, biarkan saja, tetapi lagunya sangat senang bahwa mereka mengubah karakter",
+        "Ada seperti seorang putri, rusa dan manusia salju, mereka seperti mereka tiga karakter paling penting. Juga ini adalah film pertama yang diproduksi oleh Walt Disney dan diarahkan oleh seorang wanita.",
+        "Tidak banyak film yang diarahkan oleh wanita. Itu bagus bahwa dia mendapat pekerjaan itu. Bagus untuk Disney! Mereka tahu cara melihat bakat.",
+        "Aku pikir begitu. Rupanya dia adalah direktur wanita pertama dari sebuah film yang menghasilkan lebih dari 1 miliar dolar. Jadi itu catatan lain yang dia tetapkan",
+        "Disney telah memenangkan satu ton penghargaan, dan saya yakin dia akan memenangkan penghargaan juga.",
+        "Seekor anjing adalah teman yang hebat, tetapi tidak, saya tidak pernah memiliki seekor anjing. Saya menikmati bermain dengan mereka.",
+        "Anjing itu luar biasa, saya pikir, mereka memiliki 12 jenis darah yang berbeda dan tampaknya ada drive darah anjing yang ada",
+        "Saya bertanya-tanya bagaimana anjing dihargai di drive. Orang-orang mendapatkan kue dan jus jeruk.",
+        "Orang-orang Turki tahu nilai daur ulang dan anjing itu ingin membantu hadiah.",
+        "Oh pasti! Satu hal lain yang saya tidak tahu adalah bahwa anjing dan gajah adalah satu-satunya hewan yang menanggapi menunjuk. Saya ingin gajah hewan peliharaan haha!",
+        "Semoga sukses dengan gajah itu! Pokoknya saya senang mengobrol dengan Anda!",
+        "Saya menikmati mengobrol dengan Anda juga! Dan ya saya akan pergi ke toko hewan peliharaan lokal dan melihat apakah mereka memiliki gajah dalam stok haha",
+        "Tidur yang nyenyak",
+        "Terima kasih kembali! Dan hati-hati untuk anjing, mereka sebenarnya tidak mengkilap tetapi mereka tidak melihat banyak warna sebagai manusia normal"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3db0b0290268290b4f15a"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:12:27.827Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:12:27.827Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3db0b0290268290b4f15b"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent32",
+  "conversations": [
+    {
+      "phrases": [
+        "Ana Gloria Henrequez berasal dari Salvador, berusaha untuk pergi ke AS, mencoba melarikan diri dari kesengsaraan dan geng di El Salvador. Dia tertangkap.",
+        "Ya, saya mendengar tentang itu. Saya merasa mengerikan untuk putrinya yang masih kecil",
+        "Maaf, Ana Gloria Henrequez adalah nenek, yang buruk. Ximena adalah gadis itu dan ibunya Cindy. Mereka mengatakan bahwa mereka tidak pernah ditangkap sampai hukum Trump.",
+        "Ya, saya tidak yakin apakah itu benar-benar membuat perbedaan. Itu benar-benar menyebalkan bahwa bahkan setelah perintah eksekutifnya mengakhiri pemisahan keluarga yang bersatu masih sangat sulit",
+        "Ya saya tahu. Saya tidak tahu bagaimana mereka tidak melacak apa yang dimiliki anak dari ibu apa. Sangat mengerikan untuk mengetahui bahwa anak-anak terdengar meratap dan meminta anggota keluarga mereka.",
+        "Bahkan lebih gila bahwa nenek bisa mengenali suara Ximena. Saya kira karena saya tidak pernah menjadi orangtua, saya tidak dapat memahami itu",
+        "Kamu benar. Tidak ada yang tahu bagaimana perasaan orangtua sampai Anda adalah satu. Buruk. Saya sendiri saya berpikir bahwa saya lebih suka tinggal di negara saya dan tidak memasuki Amerika Serikat setidaknya sementara mereka mengambil langkah-langkah ini. Akan mengerikan kehilangan anak atau cucu-cucu saya.",
+        "Aku mengerti itu. Saya juga bisa mengerti ingin pergi ketika ada anggota geng di setiap sudut dan si kecil Anda baru saja mulai sekolah",
+        "Ya aku mengerti itu. Itu harus sangat, sangat sulit, keputusan yang mengerikan untuk dibuat. Tapi, saya, secara pribadi, saya lebih suka menghadapi itu bersama daripada tidak tahu apa yang terjadi pada mereka. Saya tidak tahu, ini adalah situasi yang sangat sulit.",
+        "Plus, dia harus meninggalkan anjingnya di belakang :( kue kecil yang malang",
+        "Ya, ini adalah cerita yang mengerikan. Nah, Cindy dirampok dua kali di bus. Itu membuatnya sangat sulit untuk tinggal di tempat di mana Anda tidak memiliki keamanan.",
+        "Saya menyaksikan sebuah episode dari pertunjukan TV baru-baru ini dan itu menunjukkan seorang imigran anak yang terpisah dari orang tuanya di Texas yang berakhir di Asing Care di Chicago!",
+        "Banyak yang mengadopsi anak-anak karena mereka ingin memberi mereka rumah yang aman!",
+        "Oh, kalau begitu, terima kasih banyak. Senang mengetahui tentang ini. Tuhan memberkati mereka. Yah, aku suka banyak beku. Adalah putri berapi-api.",
+        "Ya, itu film yang bagus. Dan ada sekuel yang keluar. Saya tidak bisa menunggu!",
+        "Sungguh, saya juga. Saya memiliki memori yang buruk untuk beberapa hal. LOL, tapi saya pikir saya tidak akan pernah lupa bahwa nama Minnie Mouse benar-benar Minerva.",
+        "hahahaah itu begitu banyak pria, lol. Senang bertemu Anda, memberi Anda yang sangat baik, semoga harimu menyenangkan!",
+        "Semoga harimu menyenangkan :)"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3db0b0290268290b4f15c"
+      }
+    },
+    {
+      "phrases": [
+        "Saya bertanya-tanya mengapa orang mengadopsi mereka. Berdoa untuk mereka. Pernahkah Anda melihat beku?",
+        "Hahaha, suka grafisnya! Apakah kamu suka anjing? Saya tidak tahu di antara anjing mereka memiliki 12 tipe darah yang berbeda !!!!!!!",
+        "Ya, dan mereka bahkan memiliki doggy drive darah ^ _ ^ Apakah minat cinta laki-laki memiliki seekor anjing atau kuda di beku? Saya tidak ingat ...",
+        "Betulkah?! Seperti dewi Yunani? Itu menarik bagiku. Biasanya Disney mencoba untuk \"menghilangkan feminisasi\" daripada feminisasi lebih banyak. Beku seharusnya bernama Snow Queen tetapi anak laki-laki sering tidak melihat film yang memiliki nomina feminin dalam judul: /"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3db0b0290268290b4f15d"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:12:27.827Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:12:27.827Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3de073d900dc698d12ad8"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent33",
+  "conversations": [
+    {
+      "phrases": [
+        "keduanya! LOL, meskipun aku bukan anak kecil jadi saya kira untuk semua haha, saya memang membawa anak-anak saya untuk melihat filmnya. Itu keluar pada 2013 dan menghasilkan lebih dari 1 miliar dolar",
+        "Saya menikmati menonton komedi dan drama. Saya terkadang menonton hal-hal animasi, tetapi biasanya tidak.",
+        "Saya tidak tahu hal itu. Saya tidak terkejut bahwa Disney menghasilkan sekitar $ 1,110 per detik. Itu banyak, tetapi mencerminkan keberhasilan merek.",
+        "Astaga! Itu luar biasa! Saya kira saya tidak terlalu terkejut karena perusahaan didirikan pada tahun 1923!",
+        "Hampir 100 tahun. Rumah mouse akan segera memiliki satu abad di baliknya.",
+        "Wow, well itu memelihara popularitasnya dengan sangat baik! Maksud saya ada seluruh subkultur yang didedikasikan untuk menemukan gambar Mickey Mouse tersembunyi di semua hal Disney",
+        "Saya tidak pernah mencari gambar tersembunyi, tetapi saya membayangkan mereka ada di sana! Itu adalah bagian dari sifat bermain perusahaan. Ini ingin membuat banyak lapisan kesenangan bagi pemirsa.",
+        "Ya, dan dengan demikian saya tidak terkejut mereka sangat sukses. Itu sangat kreatif dan menarik, dan membuat pemirsa tertarik dan kembali ... Genius!",
+        "Sungguh ironis bahwa Walt Disney dipecat dari pekerjaannya di sebuah koran lokal di Missouri karena '' tidak cukup kreatif. \"\" Kurasa jeniusnya tidak dikenali karena dia di depan waktunya.",
+        "Wow! Lihatlah, itu sebabnya saya percaya pada waktu yang sempurna kadang-kadang ada peluang yang lebih baik di depan kita. luar biasa!",
+        "Ya! Saya terkadang mencintai mereka lebih baik daripada orang ... mereka hanya penuh cinta. Tahukah Anda ada 12 tipe darah yang berbeda yang mungkin dimiliki anjing dan anjing dapat menyumbangkan darah pada drive darah anjing! Saya lebih mencintai mereka!",
+        "Itu keren! Mereka juga memiliki 'Momen Eureka' dan menikmati pengalaman memecahkan masalah untuk mendapatkan hadiah. Banyak orang!",
+        "Selamat malam!",
+        "kamu juga"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3de073d900dc698d12ad9"
+      }
+    },
+    {
+      "phrases": [
+        "Itu keren! Saya harus menjadi film yang luar biasa. Ini film Disney, ya? Banyak lagu?",
+        "Itu betul! Diproduksi oleh Walt Disney Animated Studios dan dirilis oleh Walt Disney Pictures. Itu sangat lucu! Mereka juga membuat Rapunzel yang kusut, sudahkah Anda melihatnya?",
+        "Aku belum. Saya kira ceritanya pada dasarnya sama dengan dongeng? Gadis dengan rambut panjang di menara?",
+        "Ya, yang lain dari favorit saya! Bagaimana dengan kamu? Apa yang kamu suka tonton?",
+        "Saya juga, misteri atau thriller psikologis hebat, tetapi animasi adalah salah satu favorit saya untuk menonton dengan anak-anak meskipun semua orang tahu minnie mouse Apakah Anda tahu Minnie pendek untuk Minerva?! Pikiran ditiup",
+        "Apakah Anda tertarik pada anjing? Mereka cukup pintar. Anjing dapat belajar lebih dari seribu kata dan alasan lebih baik daripada simpanse.",
+        "Ya dan mereka mengerti dengan menunjuk! Betapa kerennya itu? Begitulah cara saya mendapatkan anjing saya untuk mendapatkan sandal saya! Bagaimanapun, menyenangkan mengobrol dengan Anda! Namaste :)",
+        "Halo temanku?! Apakah Anda penggemar film \"Beku\"? Saya pribadi menyukainya!"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3de073d900dc698d12ada"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:25:11.929Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:25:11.929Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3de073d900dc698d12adb"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent34",
+  "conversations": [
+    {
+      "phrases": [
+        "Saya belum pernah mendengar tentang Fanfest,",
+        "Saya kira itu di mana Hall of Famers bertemu, pada awalnya saya pikir itu mengatakan Hall of Farmers, lol",
+        "Tidak, tapi saya tidak tahu mereka pertama kali dirancang untuk militer",
+        "Bisa untuk tujuan pelatihan. Saya bertanya-tanya mengapa Australia memiliki lebih banyak permainan terlarang daripada Cina ... itu berarti beberapa game AS juga dilarang ... itu cukup aneh.",
+        "Ini seperti anak-anak di Korea dilarang bermain game setelah 12",
+        "Saya benar-benar tidak masuk ke dalamnya, tetapi saya akan menganggap mereka sebagai bentuk seni",
+        "Bisa jadi. Pada saat yang sama akan mudah untuk mendefinisikan popularitas seni tersebut. Misalnya, itu bisa menjadi alasan mengapa sistem peringkat terlibat dalam video game.",
+        "Mungkin saya hanya akan pergi ke fanfest dan mencoba terowongan pitching, dapatkah Anda melempar dengan baik",
+        "Saya tidak punya petunjuk, tapi saya suka nama jari rolie.",
+        "Baseball itu menyenangkan untuk ditonton. Saya suka itu. Namun, saya selalu kesulitan untuk memukul bola hahaha",
+        "mungkin Anda harus pergi ke pertunjukan Anda bisa mendapatkan medali mungkin",
+        "Medali akan menjadi prestasi terlalu signifikan. Chicago Cubs adalah yang pertama memenangkan seri dunia back-to-back dan belum menang sejak itu. Keberuntungan saya tentang lol yang sama",
+        "Terima kasih atas waktu Anda, tetapi saya harus pergi sekarang",
+        "Semoga harimu menyenangkan! Terima kasih.",
+        "Selamat tinggal",
+        "Selamat tinggal!"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3de073d900dc698d12adc"
+      }
+    },
+    {
+      "phrases": [
+        "Hai! Apa itu fanfest? tertawa terbahak-bahak",
+        "Baik. Sejujurnya aku tidak pernah mendengar. Apakah Anda bermain video game?",
+        "setelah atau sebelum 12? Jika setelah 12, mengapa begitu? Saya dulu banyak bermain ketika saya masih kecil. Saya tidak terkejut bahwa video game menghasilkan lebih banyak uang setiap tahun daripada semua film dari Hollywood.",
+        "Tetapi apakah Anda akan mengkategorikannya sebagai bentuk seni?",
+        "Pertanyaan menarik. Saya tidak berpikir ini adalah jenis seni. Bisa jadi jenis olahraga. Saya lebih mendukung sudut pandang ini. Bagaimana dengan kamu? Apa pendapatmu?",
+        "Baik. Apakah Anda menonton atau memainkan olahraga apa pun? Seperti softball atau baseball?",
+        "Saya hanya bermain Anda pernah mendengar tentang para pemain ini seperti, Davey Johnson?",
+        "Ya. Dia bermain pada tahun 1970-an, kan? Atau mungkin 1960-an ... Saya tidak ingat."
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3de073d900dc698d12add"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:25:11.930Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:25:11.930Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3de073d900dc698d12ade"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent35",
+  "conversations": [
+    {
+      "phrases": [
+        "Hei apa Kabar? Apakah Anda melihat fanfest di Miami tahun lalu secara kebetulan?",
+        "Tidak, saya tidak melihat itu. Sangat menarik bahwa 23 mantan warga negara menghadiri, apakah Anda melihatnya?",
+        "Yah, itu cukup keren. Saya tidak menangkap siapa peraih medali emas Olimpiade, bukan? Mereka mengatakan ada dua dari mereka di sana.",
+        "Saya juga, saya berharap saya tahu lebih banyak tentang Olympians, mereka sangat elit. Sulit bagi mereka untuk mendapatkan banyak pengakuan. Anda bermain video game secara kebetulan?",
+        "Ya saya bermain video game agak, digunakan untuk bermain Maurice seorang anak tetapi saya tidak bermain itu banyak hari ini. Bagaimana denganmu? Saya hanya senang bahwa saya tidak tumbuh di Korea Selatan karena tampaknya memainkan video game setelah tengah malam jika di bawah 16 Anda ilegal",
+        "Oh wow, aku tidak akan menebak itu. Saya memainkan banyak video game yang tumbuh dewasa, saya pikir ada banyak manfaat bagi mereka. Saya bermain Fortnite sekarang, dan saya berusia 30-an lol. Apakah kamu masih bermain?",
+        "Saya pasti bisa melihatnya. Apa video game favorit Anda? Jane McGonigal adalah desainer game di balik studi itu, cukup keren.",
+        "Saya setuju dengan kamu. Apakah Anda pernah memainkan permainan video LittleBigPlanet atau Harry Potter? Rupanya orang yang sama melakukan narasi dalam kedua video game itu, namanya Stephen Fry",
+        "Stephen Fry dari Top Gear?",
+        "Saya tidak yakin apakah itu orang yang sama, saya tidak tahu top gear secara pribadi, tetapi bisa jadi, apakah Anda pernah bermain softball dengan cara atau menontonnya di TV?",
+        "Saya mendengar nama Stephen Fry sepanjang waktu, ia harus sangat terkenal di Inggris. Saya tidak, Anda akan meludahi pengetahuan softball dengan cara saya?",
+        "YAH, itu agak lebih besar dari bisbol pasti, saya belum pernah melihat permainan video softball, miliki Anda?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3de073d900dc698d12adf"
+      }
+    },
+    {
+      "phrases": [
+        "Tidak, saya tidak menangkap nama mereka. Tetapi saya tahu bahwa banyak medali emas dihadiri serta beberapa orang dari tim Softball Olimpiade AS, saya tidak menonton olahraga atau Olimpiade jadi saya tidak bisa mengatakan bahwa saya tahu ada nama lol",
+        "Lol Saya pernah mendengar tentang permainan tetapi saya belum pernah memainkannya. Saya tahu bahwa mereka melakukan penelitian dan tampaknya sebagai planet kita bermain sekitar 3 miliar jam video game seminggu jadi saya pasti harus bermain lebih haha",
+        "Yah saya benar-benar menyukai Nintendo 64 dan saya juga suka Xbox asli, menarik bahwa saya memainkan permainan cerita mainan pada hari itu dan itu sebenarnya bukan Tom Hanks yang melakukan suara tetapi saudaranya Jim Hanks",
+        "Wow, saya terkejut mereka memiliki suara yang serupa. Saya pergi ke Sega ke PlayStation Route, masih mengguncang PS4, tidak ada game Toy Story.",
+        "Ya Playstation 4 itu keren. Saya hanya senang bahwa kami memanggilnya video game dan bukan nama aslinya yang merupakan perangkat hiburan tabung sinar katoda lol",
+        "Saya suka permainan video lebih banyak daripada katoda ray tabung perangkat hiburan LOL, Dang Military selalu melampaui hal-hal yang berlebihan.",
+        "Haha ya aku bisa melakukan itu. Sangat menarik bahwa softball lebih besar dari bisbol karena sekitar 12 di lingkar, saya tidak pernah bermain softball tetapi sepertinya bola yang benar-benar besar",
+        "Tidak, saya belum pernah melihatnya sebenarnya. Itu menarik meskipun gaji rata-rata untuk pemain softball profesional paling banyak $ 6.000 LOL pasti Anda tidak pensiun pada uang itu",
+        "Oh wow, jelas tidak! Ngomong-ngomong, aku akan pergi, ngobrol hebat denganmu, berhati-hatilah dan bersenang-senang!",
+        "Ya itu obrolan yang sangat baik! Dan pastikan untuk mencoba permainan video baseball sesekali, mereka sebenarnya cukup menyenangkan"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3de073d900dc698d12ae0"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:25:11.931Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:25:11.931Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3de073d900dc698d12ae1"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent36",
+  "conversations": [
+    {
+      "phrases": [
+        "Hai apa kabar?",
+        "Bagus! Anda? Apakah Anda fiksi sama sekali?",
+        "Sedikit dan saya lebih suka non-fiksi. Apakah kamu menyukainya?",
+        "Ada alasan saya mengubur kerangka saya dalam! Saya ingin tahu apakah itu berjalan di atas air seperti yang dilakukan Rusia pada tahun 1936?",
+        "Benar? Aku ingin tahu siapa yang membangunnya juga? Saya berharap anak saya bisa melakukan hal itu. Tapi tidak merokok. Merokok di dekat komputer Apple membatalkan garansi."
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3de073d900dc698d12ae2"
+      }
+    },
+    {
+      "phrases": [
+        "Saya membaca terutama non fiksi juga, tetapi saya bisa masuk ke beberapa. Saya pikir itu keren bahwa ada wiki yang memberi peringkat karakter fiksi sesuai dengan kekuatan mereka.",
+        "Saya menemukan itu bermanfaat juga! Edgar Allen Poe menulis tentang cyborg, contoh tertua dari itu.",
+        "Wow, itu agak rapi. Saya pikir itu adalah penemuan yang lebih modern.",
+        "Gerakan mengungkap kekerasan seksual demi menghapuskannya. Julius Caesar juga menulis fanfiction!",
+        "Wow. Id ingin melihat apa yang keluar dari pikirannya!",
+        "Saya kira itu tentang Hercules dan Oedipus. George Rr Martin tidak akan menyukainya!",
+        "Ya, dia hal-hal itu adalah pelanggaran hak cipta. Saya tidak setuju dengan itu.",
+        "Saya juga tidak. Bayangkan menjadi hakim rasis yang mencoba melarang buku komik karena seorang pria kulit hitam di dalamnya.",
+        "Itu benar-benar konyol. Aku bahkan tidak percaya itu terjadi.",
+        "Aku tahu. Saya tidak percaya orang ingin mengunggah pikiran mereka ke komputer!",
+        "Itu aneh. Saya tidak ingin pikiran terdalam saya ditampilkan di mana saja.",
+        "Ya, itu cukup menarik. Saya bertanya-tanya mengapa kita tidak mengeksplorasi teknologi itu lebih.",
+        "Mereka terlalu sibuk membangun komputer 16-bit menggunakan blok minecraft!",
+        "Saya tidak percaya itu mungkin terjadi. Saya pikir Minecraft hanyalah permainan. Itu gila",
+        "Untung saya tidak pernah merokok di dekat saya. Mereka pikir itu membuatnya menjadi \"biohazard\"",
+        "Sepakat! Obrolan yang menyenangkan dengan Anda!"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3de073d900dc698d12ae3"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:25:11.931Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:25:11.931Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3de073d900dc698d12ae4"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent37",
+  "conversations": [
+    {
+      "phrases": [
+        "Hei, apakah Anda keluar dan memilih selama pemilihan?",
+        "Halo, saya suka keluar dan memilih, bagaimana dengan Anda?",
+        "saya juga. Apakah Anda tahu jalan kembali maka bagaimana orang ditunjuk di Athena kuno?",
+        "Itu benar. Tahukah Anda bahwa kandidat yang lebih tinggi telah memenangkan pemilihan presiden 75% dari waktu?",
+        "Tidak, saya tidak mendengar itu, saya bertanya-tanya mengapa mereka berhenti melakukan itu?",
+        "Mungkin mereka tidak mempercayai mereka, saya tidak tahu. Apakah Anda tahu kapan Partai Republik dan Demokrat mulai menggunakan Merah dan Biru?",
+        "Tidak, saya tidak, tetapi mungkin lebih dari 100 tahun yang lalu atau lebih, tahukah Anda?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3de073d900dc698d12ae5"
+      }
+    },
+    {
+      "phrases": [
+        "Saya kira mereka ditunjuk oleh lotere dari beberapa jenis. Saya pikir mereka percaya bahwa pemilihan akan menyebabkan oligarki.",
+        "Saya bertanya-tanya bagaimana itu akan berhasil hari ini.",
+        "Ya saya tidak berpikir itu akan bekerja dengan sangat baik, tetapi sekali lagi, mungkin itu akan bekerja lebih baik, siapa yang tahu.",
+        "ya tidak ada yang tahu di sana. Di Nevada mereka tidak memiliki opsi kandidat ini dalam pemungutan suara.",
+        "Ya saya mendengar bahwa ada beberapa hasil liar dalam pemilihan Nevada tahun ini.",
+        "Saya tidak tahu tentang itu. tidak banyak orang tampaknya memilih karena kurang dari 63 orang keluar dan memilih",
+        "Bukankah itu cukup menyedihkan, saya kira itu belum melanggar hambatan 63% dalam 100 tahun terakhir!",
+        "Ya itu karena itu benar dan kami tidak menggunakannya dengan yang terbaik.",
+        "hahaa saya benar-benar bertanya-tanya apakah itu memiliki korelasi dengan bagaimana orang menganggap kandidat",
+        "Ya saya kira itu harus, karena itu terlalu tinggi untuk menjadi kesempatan.",
+        "Apakah Anda mendengar bahwa pengamat pemilihan internasional diblokir dari jajak pendapat di sembilan negara bagian pada 2012",
+        "Sebenarnya baru-baru ini 2000 jadi belum lama ini.",
+        "Sungguh, wow aku benar-benar buruk dalam politik kurasa.",
+        "Saya tidak tahu sampai sekarang. Itu mengobrol denganmu."
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3de073d900dc698d12ae6"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:25:11.931Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:25:11.931Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3de073d900dc698d12ae7"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent38",
+  "conversations": [
+    {
+      "phrases": [
+        "Puisi adalah seni yang terlupakan",
+        "Ini adalah salah satu dari mereka yang merasa seperti saya tidak selalu mengerti, tetapi senang mendengar analisis dan melihat seberapa dalamnya bisa didapat. Misalnya, ada puisi di mana jika Anda membacanya dengan cara itu menyedihkan, tetapi membacanya secara terbalik dan itu sebenarnya inspirasional!",
+        "Wow, saya yakin bahwa puisi itu membutuhkan banyak kreatif, menulis puisi dengan makna yang sama sekali berbeda, genre yang berlawanan, jenius",
+        "Ada satu pria yang menulis puisi lebih dari 220 kata di Palindrome (di mana itu sama mundur dan maju - seperti \"perawat dijalankan\")!",
+        "Sebenarnya sebenarnya dia hanya menghasilkan $ 9 untuk publikasi puisi itu, tampaknya benar-benar dibayar rendah",
+        "Wow! Itu gila! Saya harap dia memiliki pekerjaan harian. Mungkin hanya karya fiksi biasa akan lebih baik secara finansial.",
+        "Saya harap dia melakukannya juga, gagak seperti puisi paling populer dan menjualnya seharga $ 9, bisnis lambat, dia juga menulis fiksi cyborg,",
+        "Itu sangat keren. Jika dia memiliki karakter hitam di dalamnya pada 1950-an yang layak untuk melarang komik fiksi ilmiah!",
+        "Kedengarannya benar-benar rasis, ada peringkat wiki karakter fiksi sesuai dengan kekuatan dan kemampuan, saya bertanya-tanya siapa pahlawan terkuat",
+        "Saya yakin itu cukup bagus, itu tentang Hercules dan Oedipus, saya ingin tahu apakah dia baik.",
+        "Game of Thrones Author, George Rr Martin, mungkin tidak peduli untuk itu. Mungkin Caesar akan berlalu, tetapi Martin tidak peduli dengan fiksi penggemar sama sekali!",
+        "Sepertinya itulah yang saya lakukan sebagian besar hari saya. Saya belum siap untuk mengunggah pikiran saya ke komputer atau memory stick seperti transhumanis, tetapi itu seperti perpanjangan saya beberapa hari.",
+        "Saya setuju bahwa kita tidak mengerti tentang pikiran manusia, transhumanis harus kehilangan elemen-elemen kunci dari esensi manusia.",
+        "Saya memiliki Mac dan saya tidak merokok tetapi itu baik untuk diketahui, tampaknya agak acak untuk membatalkan garansi karena itu,",
+        "Mungkin mereka seharusnya mencoba membuat komputer berbasis air, yang tampaknya Rusia dapat dibuat pada tahun 1936. Saya bertanya-tanya \"komputer\" seperti apa itu.",
+        "Saya ingin tahu apakah mereka masih membuat komputer yang berlari di atas air, tidak yakin adalah ide terbaik untuk mencampur air dengan teknologi"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3de073d900dc698d12ae8"
+      }
+    },
+    {
+      "phrases": [
+        "Kedengarannya sangat sulit, apakah Anda pernah membaca salah satu puisi Edgar Allan Poe?",
+        "Saya pikir saya membaca pasangan. Saya merasa seperti saya mengenal mereka dengan sangat baik karena kisah-kisah horor dan halloween. Saya tahu \"The Raven\" cukup populer. Apakah Anda pikir dia menghasilkan banyak uang dengan puisi itu?",
+        "Mungkin seperti tipe superman atau hercules? Hal yang lucu, Kaisar Masa Depan Julius Caesar sebenarnya menulis fiksi penggemar berbasis Hercules ketika dia masih muda. Saya bertanya-tanya seperti apa itu.",
+        "Ya saya mendengar dia membenci fiction penggemar, dia tidak peduli sama sekali sehingga mengganti masalah sedikit apakah Anda banyak menggunakan komputer?",
+        "Apakah Anda PC atau MAC? Berhati-hatilah bahwa menjadi perokok, pengguna komputer Apple sebenarnya dapat membatalkan garansi seperti yang mereka lihat sebagai biohazard jika seseorang merokok. Saya juga tidak, tapi itu di samping intinya."
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3de073d900dc698d12ae9"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:25:11.932Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:25:11.932Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3de073d900dc698d12aea"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent39",
+  "conversations": [
+    {
+      "phrases": [
+        "Apakah Anda suka menggunakan komputer?",
+        "Menarik. Itu tidak terdengar benar, tetapi saya bertanya-tanya apakah itu sama untuk iPhone?",
+        "Saya tidak tahu apa yang Anda maksud? Ada kelompok yang disebut Transhumanis yang ingin mengunggah pikiran mereka ke komputer dan memory stick!",
+        "Kedengarannya cukup keren. Saya akan melakukannya, bukan?",
+        "Saya pikir itu akan sangat keren. Apakah Anda bermain Minecraft?",
+        "Ya, itu sangat gila. Saya bahkan tidak yakin bagaimana itu mungkin?",
+        "Ya itu terjadi. Apakah Anda suka membaca fiksi? Saya agak suka membaca hal-hal yang tidak didasarkan pada sejarah atau fakta.",
+        "Saya bukan penggemar fiksi yang sangat besar. Tahukah Anda ada wiki yang memberi peringkat karakter fiksi berdasarkan kekuatan?",
+        "Itu akan sangat keren. Saya bertanya-tanya apa karakter fiksi terbaik di wiki?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3de073d900dc698d12aeb"
+      }
+    },
+    {
+      "phrases": [
+        "Ya saya suka komputer. Saya tidak bisa membayangkan hidup saya tanpa satu. Pada tahun 1936 Rusia membuat yang berlari di atas air.",
+        "Menarik. Jika Anda memikirkannya, banyak kekuatan berasal dari air.",
+        "Ya seperti tenaga air. Apple Computer tampaknya cukup sensitif karena jika Anda merokok di dekat komputer Apple itu membatalkan garansi.",
+        "Saya tidak tahu terdengar agak menyeramkan bagi saya! Hampir seperti pekerjaan fiksi! Seperti sesuatu dari imajinasi seseorang!",
+        "Saya sudah di masa lalu. Agak menakjubkan seseorang membangun komputer yang berfungsi hanya menggunakan blok bangunan kerajinan tambang.",
+        "Aku juga tidak. Saya juga tidak tahu bagaimana ruang angkut-angkatan antar-jemput berjalan pada RAM 1 MB.",
+        "Saya juga tidak yakin. Sepertinya sejumlah kecil RAM.",
+        "Saya ingin melihat itu. Edgar Allan Poe menulis contoh cyborg tertua yang diketahui dalam fiksi.",
+        "Ya saya yakin Superman ada di sana. Mungkin Thor juga. Julius Caesar menulis fiksi penggemar Hercules di masa mudanya. Dia pasti sudah mulai lebih awal.",
+        "Superman pasti harus ada di sana jika tidak nomor satu. Baik mengobrol dengan baik dengan Anda!",
+        "Hakim pada 1950-an mencoba melarang karya fiksi ilmiah karena menampilkan karakter hitam. Senang kali telah berubah. Senang berbicara denganmu juga!",
+        "Bagus mengobrol dengan Anda juga!"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3de073d900dc698d12aec"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:25:11.932Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:25:11.932Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3de073d900dc698d12aed"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent40",
+  "conversations": [
+    {
+      "phrases": [
+        "Hai dan selamat siang. Apakah Anda penggemar puisi? Ini memiliki riwayat panjang yang berasal dari masa prasejarah.",
+        "Hai apa kabar? Saya bukan penggemar puisi besar. Apakah kamu?",
+        "Saya kira puisi diucapkan dan ditulis, jadi itu terkait dengan banyak seni. Apakah Anda memiliki penyair favorit?",
+        "Itu pasti membawanya cukup lama. 224 kata, mundur dan maju? kepala saya sakit.",
+        "Itu sangat menarik, saya suka karya fiksi-Nya. Saya suka fiksi karena sangat imajinatif. Apa genre favoritmu?",
+        "Bagaimana dengan vaping? Apakah vaping ok? LOL Ya, saya senang mengobrol!"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3de073d900dc698d12aee"
+      }
+    },
+    {
+      "phrases": [
+        "Saya pikir kadang-kadang menyenangkan untuk membaca. Asal usulnya lebih menarik bagi saya. Puisi awal dalam konten Eurasia berevolusi dari folksong.",
+        "Saya tidak banyak tentang puisi. itu menarik. Saya kira puisi dan lagu akan terkait erat.",
+        "Ya saya kira mereka akan melakukannya. Mereka mencoba mendefinisikan puisi di Yunani kuno seperti puisi Aristoteles. Ini berfokus pada penggunaan pidato dalam retorika, drama, lagu, dan komedi.",
+        "Saya pikir itu lucu ketika komedian melakukan puisi. Saya tidak benar-benar memiliki penyair favorit. Demetri Martin menulis 224 kata Palindrome!",
+        "Ya saya sakit hanya memikirkannya. Edgar Allan Poe adalah penyair klasik lain dan dia hanya menerima $ 9 untuk publikasi puisanya Raven.",
+        "Dia mungkin menghabiskannya pada narkoba dan minum minuman keras juga. Pria itu sangat dekaden, tapi mungkin itu mengilhami dia.",
+        "Ya kamu mungkin melakukannya. Saya suka hobbit juga. Sebagian besar nama karakter diambil dari puisi Islandia tua yang disebut Dvergatal.",
+        "Ya, Tolkien menyukai bahasa lama. Dia mempelajarinya dan belajar berbicara beberapa dari mereka.",
+        "Saya suka non fiksi karena saya ingin mengikuti apa yang terjadi di dunia.",
+        "Itu bagus dan pasti praktis. Penulis Game of Thrones membenci fiksi penggemar karena dia mengatakan itu adalah pelanggaran hak cipta dan bukan latihan yang baik untuk para penulis yang bercita-cita tinggi. Saya agak melihat dari mana dia berasal.",
+        "Para penggemar harus mencoba menulis cerita mereka sendiri, bukan mengulangi milik orang lain.",
+        "Tepat. Saya pikir penulis yang begitu lucu yang digunakan harus menulis pada ketik lama. Sekarang mereka memiliki komputer yang pada dasarnya dapat menjalankan urutan operasi aritmatika atau logis.",
+        "Ya, mesin tik mengubah hubungan antara penulis dan prosa. Saya pikir komputer membuat tulisan saya berbeda.",
+        "Ya mungkin milik saya juga sekarang sudah menyebutkannya. Jika Anda memiliki komputer Apple, pastikan Anda tidak merokok di dekatnya karena itu membatalkan garansi. Sangat menyenangkan berbicara dengan Anda sore ini.",
+        "Ha ha itu adalah informasi yang sangat penting yang perlu saya ketahui juga! Selamat sore."
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3de073d900dc698d12aef"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:25:11.932Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:25:11.932Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3de073d900dc698d12af0"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent41",
+  "conversations": [
+    {
+      "phrases": [
+        "Halo di sana, apakah Anda menggunakan Amazon?",
+        "Amazon adalah perusahaan super besar, apakah Anda tahu Chief Executive memiliki Washington Post?",
+        "Tidak, saya tidak tahu itu. Apakah Anda tahu berapa banyak pembelian Amazon pertama?",
+        "Tidak, saya tidak tahu, apakah Anda punya ide, jika ya berapa pembelian pertama?",
+        "Ya mereka lakukan, tahukah Anda bahwa layanan pos AS memiliki kontrak dengan Amazon untuk dikirim pada hari Minggu?",
+        "Ya mereka lakukan. Pada catatan yang berbeda, apakah Anda tahu banyak tentang hiu?",
+        "Kebanyakan orang berpikir bahwa semua hiu adalah hiu pembunuh, tetapi saya membaca bahwa semua hiu bukanlah hiu pembunuh. Pernahkah Anda melihat film tentang hiu?",
+        "Ya, Anda benar, saya tidak tahu hiu tidak punya tulang rusuk. Saya bertanya-tanya bagaimana mereka membahas serangan dari hewan lain dari perairan?",
+        "Setiap pertunjukan dimainkan di TV, selalu bertanya-tanya bagaimana lumba-lumba membunuh hiu? Saya perhatikan lumba-lumba selalu menyerang dari samping.",
+        "Apakah Anda tahu hiu bisa dilatih untuk menggonggong seperti anjing?",
+        "Betulkah? Itu gila, saya bertanya-tanya siapa yang berpikir untuk mencobanya. Yah, senang berbicara denganmu, aku harap kamu selamat malam."
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3de073d900dc698d12af1"
+      }
+    },
+    {
+      "phrases": [
+        "Ya, saya suka Amazon, saya suka situs film mereka dan situs web pembelian mereka.",
+        "Ya saya menggunakan layanan pengiriman mereka sedikit, terutama sekitar Natal.",
+        "Ya itu untuk $ 27,95 dan itu untuk hak untuk memberi nama bangunan setelah diri mereka sendiri.",
+        "Wow, saya akan selalu menghormati Amazon, karena mereka menawarkan seperseribu pekerjaan orang lebih atau bukan mereka kecuali itu.",
+        "Tidak, saya tidak tahu itu, tetapi saya perhatikan mereka meningkatkan layanan pengiriman mereka hanya beberapa hari sebelum menerima paket mereka.",
+        "Tidak, saya tidak, tetapi saya tahu ada jenis hiu yang berbeda dan mereka berperilaku dengan cara yang berbeda. Saya suka melihatnya di TV, tetapi tidak dalam kehidupan nyata.",
+        "Ya saya hanya tahu sedikit, saya tahu itu karena mereka tidak memiliki tulang di darat, berat hiu akan menghancurkan tubuhnya sendiri.",
+        "Tidak, hanya acara TV tentang mereka. Saya pikir Hiu Greenland dan 5 hiu gilled adalah yang paling menarik. Hiu Greenland hidup untuk jumlah waktu yang gila!",
+        "Ya tidak begitu menarik. Saya kira mereka juga berevolusi lebih awal dari dinosaurus juga.",
+        "Ya saya pikir Anda benar tentang itu. Lumba-lumba sangat menarik bagi saya tentang bagaimana mereka berkomunikasi satu sama lain."
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3de073d900dc698d12af2"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:25:11.933Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:25:11.933Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c3de073d900dc698d12af3"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intent42",
+  "conversations": [
+    {
+      "phrases": [
+        "Halo teman, apakah kamu suka kuda?",
+        "Saya bersedia. Apakah Anda tahu kuda bisa tidur berdiri dan berbaring?",
+        "Ya, itu keren. Tahukah Anda bahwa kuda telah berevolusi selama 45 hingga 55 juta tahun terakhir dari makhluk multi-rumahan kecil, Eohippus, ke dalam hewan tunggal besar hari ini?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c3de073d900dc698d12af4"
+      }
+    },
+    {
+      "phrases": [
+        "Itu membuatnya lebih mengesankan bahwa ada lebih dari 300 breeds kuda di dunia saat ini.",
+        "Ya, manusia mulai menjinakkan kuda sekitar 4000 SM, dan domestikasi mereka diyakini telah tersebar luas pada 3000 SM. Beberapa spesies dijinakkan tetapi kemudian beberapa masih hidup di alam liar sebagai kuda liar.",
+        "Saya baru saja mendengar bahwa kuda Islandia memiliki gigi kelima. Kuda hanyalah mempesona."
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c3de073d900dc698d12af5"
+      }
+    }
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-12-23T02:25:11.933Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-23T02:25:11.933Z"
+  }
+},{
+  "_id": {
+    "$oid": "61c903c3b4c58988928fe42d"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "harga produk",
+  "conversations": [
+    {
+      "phrases": [
+        "berapa harga produk itu?",
+        "untuk ukuran berapa harganya?",
+        "harganya berapa? ",
+        " harga produknya rata-rata berapa",
+        " berapa harga jual setiap produk yang tersedia?",
+        " harga produk ini berapa?",
+        " harga segini dapat produk apa?",
+        "berapa harga produk yang itu",
+        " produk ini harganya berapa?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61c903c3b4c58988928fe42e"
+      },
+      "createdAt": {
+        "$date": "2021-12-27T00:07:31.534Z"
+      },
+      "updatedAt": {
+        "$date": "2022-01-01T14:59:35.525Z"
+      }
+    },
+    {
+      "phrases": [
+        "harganya 1k",
+        " produk itu harganya 1k",
+        " produk ini seharga 1k"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61c903c3b4c58988928fe42f"
+      },
+      "createdAt": {
+        "$date": "2021-12-27T00:07:31.534Z"
+      },
+      "updatedAt": {
+        "$date": "2021-12-29T17:32:37.349Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-27T00:07:31.535Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-01T14:59:35.525Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "61d0251a3a09e078357d1294"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "ketersediaan produk",
+  "conversations": [
+    {
+      "phrases": [
+        " apakah produk ini tersedia?",
+        "produk ready? ",
+        " stok masih ada?",
+        " yang tersedia produk apa aja?",
+        "ada berapa produk yang tersedia? ",
+        " apakah produk ini masih ada?",
+        " apakah produk ini masih?",
+        " masih",
+        " yang ini ada?",
+        "produk ini ready kak? "
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61d0251a3a09e078357d1295"
+      },
+      "createdAt": {
+        "$date": "2022-01-01T09:55:38.937Z"
+      },
+      "updatedAt": {
+        "$date": "2022-01-01T15:18:32.467Z"
+      }
+    },
+    {
+      "phrases": [
+        " ya, produk tersedia, ada yang bisa dibantu?",
+        " semuanya ready, silahkan kaka",
+        " ya, semuanya masih ada, silahkan kak",
+        " semuanya tersedia, silahkan :)"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61d0251a3a09e078357d1296"
+      },
+      "createdAt": {
+        "$date": "2022-01-01T09:55:38.937Z"
+      },
+      "updatedAt": {
+        "$date": "2022-01-01T10:31:22.340Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-01-01T09:55:38.938Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-01T15:18:32.467Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61d0280689187be2fd121c80"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "spesifikasi produk",
+  "conversations": [
+    {
+      "phrases": [
+        "komposisi produk ini seperti apa?",
+        " apa aja kandungannya ya kak?",
+        " manfaatnya apa aja kak?",
+        " bahannya apa aja ya kak?",
+        " kandungannya apa aja?"
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61d0280689187be2fd121c81"
+      },
+      "createdAt": {
+        "$date": "2022-01-01T10:08:06.244Z"
+      },
+      "updatedAt": {
+        "$date": "2022-01-01T15:15:58.912Z"
+      }
+    },
+    {
+      "phrases": [
+        "produk ini terdiri dari minyak kelapa, tea tree oil, dan lidah buaya kak, kombinasi dari ketiga bahan alami tersebut sangat efektif untuk meredakan jerawat loh kak, yuk diorder, :)"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61d0280689187be2fd121c82"
+      },
+      "createdAt": {
+        "$date": "2022-01-01T10:08:06.244Z"
+      },
+      "updatedAt": {
+        "$date": "2022-01-01T10:14:01.063Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-01-01T10:08:06.244Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-01T15:15:58.912Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61d02a0889187be2fd121e54"
+  },
+  "user_id": "61bf0755921423e9e597d2d7",
+  "key": "intro",
+  "conversations": [
+    {
+      "phrases": [
+        " selamat sore kak",
+        " selamat siang",
+        " permisi kak",
+        " met sore",
+        "selamat pagi permisi "
+      ],
+      "type": 1,
+      "_id": {
+        "$oid": "61d02a0889187be2fd121e55"
+      },
+      "createdAt": {
+        "$date": "2022-01-01T10:16:40.668Z"
+      },
+      "updatedAt": {
+        "$date": "2022-01-01T10:18:18.439Z"
+      }
+    },
+    {
+      "phrases": [
+        " hai kak, mau produk yang mana?",
+        "hi, silahkan, mau order yang mana kak?"
+      ],
+      "type": 2,
+      "_id": {
+        "$oid": "61d02a0889187be2fd121e56"
+      },
+      "createdAt": {
+        "$date": "2022-01-01T10:16:40.668Z"
+      },
+      "updatedAt": {
+        "$date": "2022-01-01T10:28:30.333Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2022-01-01T10:16:40.668Z"
+  },
+  "updatedAt": {
+    "$date": "2022-01-01T10:28:30.333Z"
+  },
+  "__v": 1
+}]
